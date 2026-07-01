@@ -14,7 +14,7 @@ const cardData = [
     title: 'Nowcasting Engine',
     description: 'Real-time solar flare detection and automated peak flux classification into GOES A, B, C, M, and X classes.',
     label: 'Detection',
-    image: '/nowcasting_icon.png',
+    image: './nowcasting_icon.png',
     parameters: [
       { key: 'Instrument', value: 'SoLEXS (SXR)' },
       { key: 'Cadence', value: '1-second telemetry' },
@@ -27,7 +27,7 @@ const cardData = [
     title: 'Forecasting Engine',
     description: 'Trained Random Forest classifiers computing warning probabilities for lookahead windows of 30, 60, and 120 minutes.',
     label: 'Prediction',
-    image: '/forecasting_icon.png',
+    image: './forecasting_icon.png',
     parameters: [
       { key: 'Algorithm', value: 'Random Forest' },
       { key: 'Lookahead', value: '30, 60, 120 mins' },
@@ -40,7 +40,7 @@ const cardData = [
     title: 'Neupert Effect Precursors',
     description: 'Leveraging the time-integrated relationship of hard X-ray impulses as precursors to thermal soft X-ray peaks, boosting warning lead times by 15-45 minutes.',
     label: 'Physics',
-    image: '/neupert_effect.png',
+    image: './neupert_effect.png',
     parameters: [
       { key: 'Payloads', value: 'HEL1OS & SoLEXS' },
       { key: 'Lead Time', value: '15 to 45 minutes' },
@@ -53,7 +53,7 @@ const cardData = [
     title: 'Interactive Simulator',
     description: 'A custom, real-time trigger verification playground allowing users to manually test sensor threshold crossings.',
     label: 'Verification',
-    image: '/interactive_simulator.png',
+    image: './interactive_simulator.png',
     parameters: [
       { key: 'Mode', value: 'Manual Override' },
       { key: 'Variables', value: 'SXR Flux, HXR Flux' },
@@ -66,7 +66,7 @@ const cardData = [
     title: 'Orbital Geometry',
     description: 'Interactive visualization of the Aditya-L1 spacecraft trajectory at the Sun-Earth L1 Lagrange Point halo orbit path.',
     label: 'Orbits',
-    image: '/orbital_geometry.png',
+    image: './orbital_geometry.png',
     parameters: [
       { key: 'Orbit Class', value: 'Halo Orbit' },
       { key: 'Lagrange Point', value: 'L1 Lagrange Point' },
@@ -79,7 +79,7 @@ const cardData = [
     title: 'Downloadable Catalogs',
     description: 'Generates structured, research-ready flare database logs (master_catalogue.csv) complying with strict data contracts.',
     label: 'Data',
-    image: '/downloadable_catalogs.png',
+    image: './downloadable_catalogs.png',
     parameters: [
       { key: 'File Name', value: 'master_catalogue.csv' },
       { key: 'Compliance', value: 'Antariksh Data Contract' },

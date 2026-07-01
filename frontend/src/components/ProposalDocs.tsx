@@ -90,7 +90,7 @@ export function ProposalDocs() {
       <div className="tech-doc-header relative overflow-visible">
         {/* Retro zine sticker overlay */}
         <img 
-          src="/sticker_sun.png" 
+          src="./sticker_sun.png" 
           alt="Sun Sticker" 
           className="absolute -top-8 right-6 w-16 h-16 pointer-events-none select-none z-20 transform rotate-6 hover:scale-110 transition-transform duration-200"
         />
@@ -228,10 +228,10 @@ export function ProposalDocs() {
         <div style={{ height: '320px', position: 'relative', borderRadius: '12px', overflow: 'hidden' }}>
           <FlowingMenu 
             items={[
-              { link: "#", text: "Aditya-L1 Orbit", image: "/orbital_geometry.png" },
-              { link: "#", text: "SoLEXS Instrument", image: "/nowcasting_icon.png" },
-              { link: "#", text: "HEL1OS Instrument", image: "/interactive_simulator.png" },
-              { link: "#", text: "Neupert Effect Physics", image: "/neupert_effect.png" }
+              { link: "#", text: "Aditya-L1 Orbit", image: "./orbital_geometry.png" },
+              { link: "#", text: "SoLEXS Instrument", image: "./nowcasting_icon.png" },
+              { link: "#", text: "HEL1OS Instrument", image: "./interactive_simulator.png" },
+              { link: "#", text: "Neupert Effect Physics", image: "./neupert_effect.png" }
             ]} 
             speed={12} 
             textColor="#ffffff" 

@@ -205,7 +205,7 @@ export default function App() {
 
             
             <img 
-              src="/aditya_l1_solar_flare_custom.png" 
+              src="./aditya_l1_solar_flare_custom.png" 
               alt="Aditya-L1 Solar Flare" 
               className="w-full h-auto object-cover aspect-video sm:aspect-[16/10] opacity-95 select-none"
             />
@@ -221,7 +221,7 @@ export default function App() {
             <div className="tech-card space-y-4 shadow-2xl relative border-2 border-white overflow-visible">
               {/* Retro zine sticker overlay */}
               <img 
-                src="/sticker_dish.png" 
+                src="./sticker_dish.png" 
                 alt="Tracking Dish Sticker" 
                 className="absolute -top-7 -right-7 w-16 h-16 pointer-events-none select-none z-20 transform rotate-12 hover:scale-110 transition-transform duration-200"
               />
@@ -317,7 +317,7 @@ export default function App() {
           <div className="tech-card space-y-4 shadow-2xl relative border-2 border-white overflow-visible">
             {/* Retro zine sticker overlay */}
             <img 
-              src="/sticker_asteroid.png" 
+              src="./sticker_asteroid.png" 
               alt="Asteroid Sticker" 
               className="absolute -bottom-5 -left-5 w-14 h-14 pointer-events-none select-none z-20 transform -rotate-12 hover:scale-110 transition-transform duration-200"
             />
@@ -543,7 +543,7 @@ export default function App() {
                 <div className="md:col-span-5 bg-black border border-white p-5 space-y-4 shadow-none relative overflow-visible">
                   {/* Retro zine sticker overlay */}
                   <img 
-                    src="/sticker_comet.png" 
+                    src="./sticker_comet.png" 
                     alt="Comet Sticker" 
                     className="absolute -top-6 -right-6 w-16 h-16 pointer-events-none select-none z-20 transform -rotate-12 hover:scale-110 transition-transform duration-200"
                   />
