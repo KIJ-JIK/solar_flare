@@ -1,0 +1,62 @@
+# Day 6 Gap Analysis — Member B (Algorithm/ML Design Lead)
+
+*Produced: 2026-06-29. Purpose: honest self-audit before Day 7 internal review.*
+
+---
+
+## Step 1: D's Objectives Checklist Status
+
+**RECEIVED AND REVIEWED.** I located Member D's official PS15 problem statement notes (`problem_understanding.md`, `expected_outcomes.md`, `proposal_draft.md`).
+
+The official objectives relevant to forecasting are:
+1.  **Lead Time:** Achieve a forecast lead-time of 15 to 45 minutes prior to flare onset using HEL1OS precursor spikes.
+2.  **Detection Reliability:** Target True Positive Rate (TPR) > 85% and False Alarm Rate (FAR) < 15% for M- and X-class flares.
+3.  **Skill Score:** Heidke Skill Score (HSS) exceeding 0.65.
+4.  **Physics-Based Features:** Explicitly utilize the Neupert Effect (HEL1OS hard X-ray rise rate) as a predictor.
+
+---
+
+## Covered
+
+These items are clearly addressed by existing artifacts in my workspace:
+
+- **End-to-end pipeline architecture documented** — [conceptual_pipeline_v1.md](file:///c:/Users/aryap/Downloads/BAH2026_PS15_repo_scaffold/BAH2026_PS15/docs/architecture/conceptual_pipeline_v1.md) defines all 6 stages with owners, inputs/outputs, and risks.
+- **Feature engineering spec locked** — [feature_spec_v1.md](file:///c:/Users/aryap/Downloads/BAH2026_PS15_repo_scaffold/BAH2026_PS15/docs/architecture/feature_spec_v1.md) defines exact logic for all 5 features + 3 label columns, directly addressing the "Physics-Based Features" objective (Neupert Effect).
+- **Feature engineering code implemented and runs** — [build_features.py](file:///c:/Users/aryap/Downloads/BAH2026_PS15_repo_scaffold/BAH2026_PS15/src/features/build_features.py) produces `features.csv` matching the README contract schema exactly (verified by successful execution).
+- **Output schema matches README contract** — `features.csv` columns are: `timestamp`, `hard_rate_of_rise`, `hardness_ratio`, `soft_bg_trend`, `recent_flare_count`, `label_30min`, `label_60min`, `label_120min`.
+- **Evaluation framework written** — [evaluation_framework.md](file:///c:/Users/aryap/Downloads/BAH2026_PS15_repo_scaffold/BAH2026_PS15/docs/sections/evaluation_framework.md) accurately defines TPR (POD), FAR, Lead Time, and explicitly covers the HSS metric required by the official objectives.
+- **Neupert effect reflected in features** — `hard_rate_of_rise` is physically motivated by the hard-before-soft temporal relationship, and the synthetic data generator models this offset.
+- **Synthetic data fallback exists** — Pipeline does not crash when A's data is missing; generates 48h of Neupert-consistent synthetic data with clear console warnings.
+
+---
+
+## Partially Covered / Needs Strengthening
+
+- **Model choice justification exists, but no model code.** [feature_spec_v1.md](file:///c:/Users/aryap/Downloads/BAH2026_PS15_repo_scaffold/BAH2026_PS15/docs/architecture/feature_spec_v1.md) describes GBT baseline and LSTM/Transformer stretch goal with rationale, but `/src/forecast/` is empty — no training script, no model artifact, no predictions file. If a judge asks "show me the model," we currently have nothing to show.
+- **Lead time targets are structurally supported, but unproven.** The `label_30min` and `label_60min` horizons structurally allow us to hit the 15-45 minute lead time objective, but since the model isn't built, we cannot prove it yet.
+- **Evaluation framework is written but has zero numbers.** The [evaluation_framework.md](file:///c:/Users/aryap/Downloads/BAH2026_PS15_repo_scaffold/BAH2026_PS15/docs/sections/evaluation_framework.md) honestly states results are placeholder. We cannot yet prove we hit the required >85% TPR, <15% FAR, or >0.65 HSS.
+- **Label generation is placeholder-only.** Labels in `features.csv` are derived from a 95th-percentile soft-flux threshold, not from C's `master_catalogue.csv`. The official objective specifies metrics for "M- and X-class flares", which our placeholder percentile logic cannot properly distinguish.
+- **Feature spec vs. code discrepancy on window sizes.** The spec ([feature_spec_v1.md](file:///c:/Users/aryap/Downloads/BAH2026_PS15_repo_scaffold/BAH2026_PS15/docs/architecture/feature_spec_v1.md)) proposes N=3 minutes for `hard_rate_of_rise` and a 6-hour window for `soft_bg_trend`. The code ([build_features.py](file:///c:/Users/aryap/Downloads/BAH2026_PS15_repo_scaffold/BAH2026_PS15/src/features/build_features.py)) uses N=5 samples and M=30 samples.
+- **Open questions from Day 3 are still open.** A has not confirmed cadence, NaN gap policy, date range, or cross-calibration status.
+
+---
+
+## Not Covered
+
+- **No trained model** — `/src/forecast/` is empty. No XGBoost training script, no saved model, no predictions output. This means we cannot hit the HSS/TPR/FAR objectives yet.
+- **No LSTM/Transformer implementation** — stretch goal mentioned in spec but has zero code.
+- **No real Aditya-L1 data processed** — `combined_lightcurve.csv` in the workspace is the synthetic file generated by `build_features.py`. A's real data has not been delivered.
+- **No real flare catalogue** — `outputs/catalogue/master_catalogue.csv` does not exist. C has not delivered detection outputs.
+- **No validation plots** — `outputs/plots/` is empty. No visual evidence of model performance exists.
+- **No class-imbalance handling strategy implemented** — evaluation framework *discusses* class imbalance, but no concrete mitigation (SMOTE, class weights) is implemented for the GBT baseline to ensure we can hit the strict <15% FAR requirement on rare events.
+
+---
+
+## Risks for Day 7 Internal Review
+
+1. **"Where is your model?"** — The most glaring gap. We have feature engineering and an evaluation framework, but the core deliverable (a forecasting model) is absent. We cannot prove we meet the TPR/FAR/HSS targets without it.
+2. **"Why GBT over a simpler logistic regression baseline?"** — The spec asserts XGBoost is appropriate but doesn't benchmark it against a simpler alternative.
+3. **"How do you know your placeholder labels are realistic?"** — The 95th-percentile threshold is purely statistical. The official objectives specify performance on M- and X-class flares, which require real physics-based thresholds.
+4. **"What happens when A's real data has a very different noise profile?"** — Our synthetic data uses clean Gaussian bumps. Real data will have instrument noise, cosmic ray spikes, and data gaps that might tank our FAR.
+5. **"Your Day 3 assumptions are still unconfirmed — are you actually integrated with A?"** — All four schema confirmation items remain unchecked.
+6. **"Can we actually hit HSS > 0.65?"** — Without a baseline model run on real data, committing to specific high-performance metrics like HSS > 0.65 in D's proposal draft is highly risky and bordering on overclaiming.

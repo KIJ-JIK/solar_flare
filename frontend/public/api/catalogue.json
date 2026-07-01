@@ -1,0 +1,44 @@
+[
+  {
+    "start_time": "2026-06-01T14:28:10Z",
+    "peak_time": "2026-06-01T14:56:00Z",
+    "end_time": "2026-06-01T15:09:00Z",
+    "flare_class": "M3.1",
+    "confidence": "hard-confirmed"
+  },
+  {
+    "start_time": "2026-06-02T09:40:20Z",
+    "peak_time": "2026-06-02T09:59:20Z",
+    "end_time": "2026-06-02T10:06:00Z",
+    "flare_class": "C8.8",
+    "confidence": "hard-confirmed"
+  },
+  {
+    "start_time": "2026-06-03T06:05:20Z",
+    "peak_time": "2026-06-03T07:05:20Z",
+    "end_time": "2026-06-03T07:30:00Z",
+    "flare_class": "X1.2",
+    "confidence": "hard-confirmed"
+  },
+  {
+    "start_time": "2026-06-04T02:28:10Z",
+    "peak_time": "2026-06-04T02:52:30Z",
+    "end_time": "2026-06-04T03:04:00Z",
+    "flare_class": "M2.1",
+    "confidence": "hard-confirmed"
+  },
+  {
+    "start_time": "2026-06-04T21:40:10Z",
+    "peak_time": "2026-06-04T21:53:40Z",
+    "end_time": "2026-06-04T22:01:00Z",
+    "flare_class": "C6.3",
+    "confidence": "hard-confirmed"
+  },
+  {
+    "start_time": "2026-06-05T12:04:50Z",
+    "peak_time": "2026-06-05T12:44:10Z",
+    "end_time": "2026-06-05T13:00:00Z",
+    "flare_class": "M4.6",
+    "confidence": "hard-confirmed"
+  }
+]

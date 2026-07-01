@@ -1,0 +1,4010 @@
+[
+  {
+    "timestamp": "2026-06-20T12:10:28Z",
+    "soft_xray_flux": 22.0,
+    "hard_xray_flux": 2.0,
+    "soft_bg_subtracted": 19.0,
+    "hard_bg_subtracted": 2.0,
+    "source": "aditya"
+  },
+  {
+    "timestamp": "2026-06-20T12:11:53Z",
+    "soft_xray_flux": 35.0,
+    "hard_xray_flux": 0.0,
+    "soft_bg_subtracted": 32.0,
+    "hard_bg_subtracted": 0.0,
+    "source": "aditya"
+  },
+  {
+    "timestamp": "2026-06-20T12:13:18Z",
+    "soft_xray_flux": 30.0,
+    "hard_xray_flux": 0.0,
+    "soft_bg_subtracted": 27.0,
+    "hard_bg_subtracted": 0.0,
+    "source": "aditya"
+  },
+  {
+    "timestamp": "2026-06-20T12:14:43Z",
+    "soft_xray_flux": 42.0,
+    "hard_xray_flux": 0.0,
+    "soft_bg_subtracted": 39.0,
+    "hard_bg_subtracted": 0.0,
+    "source": "aditya"
+  },
+  {
+    "timestamp": "2026-06-20T12:16:08Z",
+    "soft_xray_flux": 24.0,
+    "hard_xray_flux": 0.0,
+    "soft_bg_subtracted": 21.0,
+    "hard_bg_subtracted": 0.0,
+    "source": "aditya"
+  },
+  {
+    "timestamp": "2026-06-20T12:17:33Z",
+    "soft_xray_flux": 52.0,
+    "hard_xray_flux": 0.0,
+    "soft_bg_subtracted": 49.0,
+    "hard_bg_subtracted": 0.0,
+    "source": "aditya"
+  },
+  {
+    "timestamp": "2026-06-20T12:18:58Z",
+    "soft_xray_flux": 62.0,
+    "hard_xray_flux": 0.0,
+    "soft_bg_subtracted": 59.0,
+    "hard_bg_subtracted": 0.0,
+    "source": "aditya"
+  },
+  {
+    "timestamp": "2026-06-20T12:20:23Z",
+    "soft_xray_flux": 69.0,
+    "hard_xray_flux": 0.0,
+    "soft_bg_subtracted": 66.0,
+    "hard_bg_subtracted": 0.0,
+    "source": "aditya"
+  },
+  {
+    "timestamp": "2026-06-20T12:21:48Z",
+    "soft_xray_flux": 62.0,
+    "hard_xray_flux": 0.0,
+    "soft_bg_subtracted": 59.0,
+    "hard_bg_subtracted": 0.0,
+    "source": "aditya"
+  },
+  {
+    "timestamp": "2026-06-20T12:23:13Z",
+    "soft_xray_flux": 58.0,
+    "hard_xray_flux": 0.0,
+    "soft_bg_subtracted": 55.0,
+    "hard_bg_subtracted": 0.0,
+    "source": "aditya"
+  },
+  {
+    "timestamp": "2026-06-20T12:24:38Z",
+    "soft_xray_flux": 37.0,
+    "hard_xray_flux": 0.0,
+    "soft_bg_subtracted": 34.0,
+    "hard_bg_subtracted": 0.0,
+    "source": "aditya"
+  },
+  {
+    "timestamp": "2026-06-20T12:26:03Z",
+    "soft_xray_flux": 22.0,
+    "hard_xray_flux": 0.0,
+    "soft_bg_subtracted": 19.0,
+    "hard_bg_subtracted": 0.0,
+    "source": "aditya"
+  },
+  {
+    "timestamp": "2026-06-20T12:27:28Z",
+    "soft_xray_flux": 16.0,
+    "hard_xray_flux": 1.0,
+    "soft_bg_subtracted": 13.0,
+    "hard_bg_subtracted": 1.0,
+    "source": "aditya"
+  },
+  {
+    "timestamp": "2026-06-20T12:28:53Z",
+    "soft_xray_flux": 13.0,
+    "hard_xray_flux": 0.0,
+    "soft_bg_subtracted": 10.0,
+    "hard_bg_subtracted": 0.0,
+    "source": "aditya"
+  },
+  {
+    "timestamp": "2026-06-20T12:30:18Z",
+    "soft_xray_flux": 12.0,
+    "hard_xray_flux": 0.0,
+    "soft_bg_subtracted": 9.0,
+    "hard_bg_subtracted": 0.0,
+    "source": "aditya"
+  },
+  {
+    "timestamp": "2026-06-20T12:31:43Z",
+    "soft_xray_flux": 14.0,
+    "hard_xray_flux": 0.0,
+    "soft_bg_subtracted": 11.0,
+    "hard_bg_subtracted": 0.0,
+    "source": "aditya"
+  },
+  {
+    "timestamp": "2026-06-20T12:33:08Z",
+    "soft_xray_flux": 8.0,
+    "hard_xray_flux": 0.0,
+    "soft_bg_subtracted": 5.0,
+    "hard_bg_subtracted": 0.0,
+    "source": "aditya"
+  },
+  {
+    "timestamp": "2026-06-20T12:34:33Z",
+    "soft_xray_flux": 8.0,
+    "hard_xray_flux": 0.0,
+    "soft_bg_subtracted": 5.0,
+    "hard_bg_subtracted": 0.0,
+    "source": "aditya"
+  },
+  {
+    "timestamp": "2026-06-20T12:35:58Z",
+    "soft_xray_flux": 7.0,
+    "hard_xray_flux": 0.0,
+    "soft_bg_subtracted": 4.0,
+    "hard_bg_subtracted": 0.0,
+    "source": "aditya"
+  },
+  {
+    "timestamp": "2026-06-20T12:37:23Z",
+    "soft_xray_flux": 8.0,
+    "hard_xray_flux": 0.0,
+    "soft_bg_subtracted": 5.0,
+    "hard_bg_subtracted": 0.0,
+    "source": "aditya"
+  },
+  {
+    "timestamp": "2026-06-20T12:38:48Z",
+    "soft_xray_flux": 10.0,
+    "hard_xray_flux": 0.0,
+    "soft_bg_subtracted": 7.0,
+    "hard_bg_subtracted": 0.0,
+    "source": "aditya"
+  },
+  {
+    "timestamp": "2026-06-20T12:40:13Z",
+    "soft_xray_flux": 12.0,
+    "hard_xray_flux": 0.0,
+    "soft_bg_subtracted": 9.0,
+    "hard_bg_subtracted": 0.0,
+    "source": "aditya"
+  },
+  {
+    "timestamp": "2026-06-20T12:41:38Z",
+    "soft_xray_flux": 10.0,
+    "hard_xray_flux": 2.0,
+    "soft_bg_subtracted": 7.0,
+    "hard_bg_subtracted": 2.0,
+    "source": "aditya"
+  },
+  {
+    "timestamp": "2026-06-20T12:43:03Z",
+    "soft_xray_flux": 3.0,
+    "hard_xray_flux": 0.0,
+    "soft_bg_subtracted": 0.0,
+    "hard_bg_subtracted": 0.0,
+    "source": "aditya"
+  },
+  {
+    "timestamp": "2026-06-20T12:44:28Z",
+    "soft_xray_flux": 14.0,
+    "hard_xray_flux": 0.0,
+    "soft_bg_subtracted": 11.0,
+    "hard_bg_subtracted": 0.0,
+    "source": "aditya"
+  },
+  {
+    "timestamp": "2026-06-20T12:45:53Z",
+    "soft_xray_flux": 10.0,
+    "hard_xray_flux": 0.0,
+    "soft_bg_subtracted": 7.0,
+    "hard_bg_subtracted": 0.0,
+    "source": "aditya"
+  },
+  {
+    "timestamp": "2026-06-20T12:47:18Z",
+    "soft_xray_flux": 15.0,
+    "hard_xray_flux": 0.0,
+    "soft_bg_subtracted": 12.0,
+    "hard_bg_subtracted": 0.0,
+    "source": "aditya"
+  },
+  {
+    "timestamp": "2026-06-20T12:48:43Z",
+    "soft_xray_flux": 14.0,
+    "hard_xray_flux": 0.0,
+    "soft_bg_subtracted": 11.0,
+    "hard_bg_subtracted": 0.0,
+    "source": "aditya"
+  },
+  {
+    "timestamp": "2026-06-20T12:50:08Z",
+    "soft_xray_flux": 6.0,
+    "hard_xray_flux": 0.0,
+    "soft_bg_subtracted": 3.0,
+    "hard_bg_subtracted": 0.0,
+    "source": "aditya"
+  },
+  {
+    "timestamp": "2026-06-20T12:51:33Z",
+    "soft_xray_flux": 8.0,
+    "hard_xray_flux": 0.0,
+    "soft_bg_subtracted": 5.0,
+    "hard_bg_subtracted": 0.0,
+    "source": "aditya"
+  },
+  {
+    "timestamp": "2026-06-20T12:52:58Z",
+    "soft_xray_flux": 11.0,
+    "hard_xray_flux": 0.0,
+    "soft_bg_subtracted": 8.0,
+    "hard_bg_subtracted": 0.0,
+    "source": "aditya"
+  },
+  {
+    "timestamp": "2026-06-20T12:54:23Z",
+    "soft_xray_flux": 9.0,
+    "hard_xray_flux": 0.0,
+    "soft_bg_subtracted": 6.0,
+    "hard_bg_subtracted": 0.0,
+    "source": "aditya"
+  },
+  {
+    "timestamp": "2026-06-20T12:55:48Z",
+    "soft_xray_flux": 13.0,
+    "hard_xray_flux": 0.0,
+    "soft_bg_subtracted": 10.0,
+    "hard_bg_subtracted": 0.0,
+    "source": "aditya"
+  },
+  {
+    "timestamp": "2026-06-20T12:57:13Z",
+    "soft_xray_flux": 17.0,
+    "hard_xray_flux": 0.0,
+    "soft_bg_subtracted": 14.0,
+    "hard_bg_subtracted": 0.0,
+    "source": "aditya"
+  },
+  {
+    "timestamp": "2026-06-20T12:58:38Z",
+    "soft_xray_flux": 18.0,
+    "hard_xray_flux": 0.0,
+    "soft_bg_subtracted": 15.0,
+    "hard_bg_subtracted": 0.0,
+    "source": "aditya"
+  },
+  {
+    "timestamp": "2026-06-20T13:00:03Z",
+    "soft_xray_flux": 14.0,
+    "hard_xray_flux": 0.0,
+    "soft_bg_subtracted": 11.0,
+    "hard_bg_subtracted": 0.0,
+    "source": "aditya"
+  },
+  {
+    "timestamp": "2026-06-20T13:01:28Z",
+    "soft_xray_flux": 5.0,
+    "hard_xray_flux": 0.0,
+    "soft_bg_subtracted": 2.0,
+    "hard_bg_subtracted": 0.0,
+    "source": "aditya"
+  },
+  {
+    "timestamp": "2026-06-20T13:02:53Z",
+    "soft_xray_flux": 9.0,
+    "hard_xray_flux": 0.0,
+    "soft_bg_subtracted": 6.0,
+    "hard_bg_subtracted": 0.0,
+    "source": "aditya"
+  },
+  {
+    "timestamp": "2026-06-20T13:04:18Z",
+    "soft_xray_flux": 14.0,
+    "hard_xray_flux": 0.0,
+    "soft_bg_subtracted": 11.0,
+    "hard_bg_subtracted": 0.0,
+    "source": "aditya"
+  },
+  {
+    "timestamp": "2026-06-20T13:05:43Z",
+    "soft_xray_flux": 7.0,
+    "hard_xray_flux": 1.0,
+    "soft_bg_subtracted": 4.0,
+    "hard_bg_subtracted": 1.0,
+    "source": "aditya"
+  },
+  {
+    "timestamp": "2026-06-20T13:07:08Z",
+    "soft_xray_flux": 10.0,
+    "hard_xray_flux": 0.0,
+    "soft_bg_subtracted": 7.0,
+    "hard_bg_subtracted": 0.0,
+    "source": "aditya"
+  },
+  {
+    "timestamp": "2026-06-20T13:08:33Z",
+    "soft_xray_flux": 9.0,
+    "hard_xray_flux": 1.0,
+    "soft_bg_subtracted": 6.0,
+    "hard_bg_subtracted": 1.0,
+    "source": "aditya"
+  },
+  {
+    "timestamp": "2026-06-20T13:09:58Z",
+    "soft_xray_flux": 4.0,
+    "hard_xray_flux": 0.0,
+    "soft_bg_subtracted": 1.0,
+    "hard_bg_subtracted": 0.0,
+    "source": "aditya"
+  },
+  {
+    "timestamp": "2026-06-20T13:11:23Z",
+    "soft_xray_flux": 5.0,
+    "hard_xray_flux": 0.0,
+    "soft_bg_subtracted": 2.0,
+    "hard_bg_subtracted": 0.0,
+    "source": "aditya"
+  },
+  {
+    "timestamp": "2026-06-20T13:12:48Z",
+    "soft_xray_flux": 9.0,
+    "hard_xray_flux": 0.0,
+    "soft_bg_subtracted": 6.0,
+    "hard_bg_subtracted": 0.0,
+    "source": "aditya"
+  },
+  {
+    "timestamp": "2026-06-20T13:14:13Z",
+    "soft_xray_flux": 10.0,
+    "hard_xray_flux": 0.0,
+    "soft_bg_subtracted": 7.0,
+    "hard_bg_subtracted": 0.0,
+    "source": "aditya"
+  },
+  {
+    "timestamp": "2026-06-20T13:15:38Z",
+    "soft_xray_flux": 10.0,
+    "hard_xray_flux": 0.0,
+    "soft_bg_subtracted": 7.0,
+    "hard_bg_subtracted": 0.0,
+    "source": "aditya"
+  },
+  {
+    "timestamp": "2026-06-20T13:17:03Z",
+    "soft_xray_flux": 6.0,
+    "hard_xray_flux": 0.0,
+    "soft_bg_subtracted": 3.0,
+    "hard_bg_subtracted": 0.0,
+    "source": "aditya"
+  },
+  {
+    "timestamp": "2026-06-20T13:18:28Z",
+    "soft_xray_flux": 5.0,
+    "hard_xray_flux": 0.0,
+    "soft_bg_subtracted": 2.0,
+    "hard_bg_subtracted": 0.0,
+    "source": "aditya"
+  },
+  {
+    "timestamp": "2026-06-20T13:19:53Z",
+    "soft_xray_flux": 8.0,
+    "hard_xray_flux": 0.0,
+    "soft_bg_subtracted": 5.0,
+    "hard_bg_subtracted": 0.0,
+    "source": "aditya"
+  },
+  {
+    "timestamp": "2026-06-20T13:21:18Z",
+    "soft_xray_flux": 13.0,
+    "hard_xray_flux": 1.0,
+    "soft_bg_subtracted": 10.0,
+    "hard_bg_subtracted": 1.0,
+    "source": "aditya"
+  },
+  {
+    "timestamp": "2026-06-20T13:22:43Z",
+    "soft_xray_flux": 6.0,
+    "hard_xray_flux": 0.0,
+    "soft_bg_subtracted": 3.0,
+    "hard_bg_subtracted": 0.0,
+    "source": "aditya"
+  },
+  {
+    "timestamp": "2026-06-20T13:24:08Z",
+    "soft_xray_flux": 8.0,
+    "hard_xray_flux": 4.0,
+    "soft_bg_subtracted": 5.0,
+    "hard_bg_subtracted": 4.0,
+    "source": "aditya"
+  },
+  {
+    "timestamp": "2026-06-20T13:25:33Z",
+    "soft_xray_flux": 8.0,
+    "hard_xray_flux": 0.0,
+    "soft_bg_subtracted": 5.0,
+    "hard_bg_subtracted": 0.0,
+    "source": "aditya"
+  },
+  {
+    "timestamp": "2026-06-20T13:26:58Z",
+    "soft_xray_flux": 5.0,
+    "hard_xray_flux": 0.0,
+    "soft_bg_subtracted": 2.0,
+    "hard_bg_subtracted": 0.0,
+    "source": "aditya"
+  },
+  {
+    "timestamp": "2026-06-20T13:28:23Z",
+    "soft_xray_flux": 9.0,
+    "hard_xray_flux": 0.0,
+    "soft_bg_subtracted": 6.0,
+    "hard_bg_subtracted": 0.0,
+    "source": "aditya"
+  },
+  {
+    "timestamp": "2026-06-20T13:29:48Z",
+    "soft_xray_flux": 11.0,
+    "hard_xray_flux": 0.0,
+    "soft_bg_subtracted": 8.0,
+    "hard_bg_subtracted": 0.0,
+    "source": "aditya"
+  },
+  {
+    "timestamp": "2026-06-20T13:31:13Z",
+    "soft_xray_flux": 14.0,
+    "hard_xray_flux": 1.0,
+    "soft_bg_subtracted": 11.0,
+    "hard_bg_subtracted": 1.0,
+    "source": "aditya"
+  },
+  {
+    "timestamp": "2026-06-20T13:32:38Z",
+    "soft_xray_flux": 16.0,
+    "hard_xray_flux": 0.0,
+    "soft_bg_subtracted": 13.0,
+    "hard_bg_subtracted": 0.0,
+    "source": "aditya"
+  },
+  {
+    "timestamp": "2026-06-20T13:34:03Z",
+    "soft_xray_flux": 7.0,
+    "hard_xray_flux": 0.0,
+    "soft_bg_subtracted": 4.0,
+    "hard_bg_subtracted": 0.0,
+    "source": "aditya"
+  },
+  {
+    "timestamp": "2026-06-20T13:35:28Z",
+    "soft_xray_flux": 11.0,
+    "hard_xray_flux": 0.0,
+    "soft_bg_subtracted": 8.0,
+    "hard_bg_subtracted": 0.0,
+    "source": "aditya"
+  },
+  {
+    "timestamp": "2026-06-20T13:36:53Z",
+    "soft_xray_flux": 9.0,
+    "hard_xray_flux": 2.0,
+    "soft_bg_subtracted": 6.0,
+    "hard_bg_subtracted": 2.0,
+    "source": "aditya"
+  },
+  {
+    "timestamp": "2026-06-20T13:38:18Z",
+    "soft_xray_flux": 9.0,
+    "hard_xray_flux": 0.0,
+    "soft_bg_subtracted": 6.0,
+    "hard_bg_subtracted": 0.0,
+    "source": "aditya"
+  },
+  {
+    "timestamp": "2026-06-20T13:39:43Z",
+    "soft_xray_flux": 8.0,
+    "hard_xray_flux": 0.0,
+    "soft_bg_subtracted": 5.0,
+    "hard_bg_subtracted": 0.0,
+    "source": "aditya"
+  },
+  {
+    "timestamp": "2026-06-20T13:41:08Z",
+    "soft_xray_flux": 10.0,
+    "hard_xray_flux": 0.0,
+    "soft_bg_subtracted": 7.0,
+    "hard_bg_subtracted": 0.0,
+    "source": "aditya"
+  },
+  {
+    "timestamp": "2026-06-20T13:42:33Z",
+    "soft_xray_flux": 9.0,
+    "hard_xray_flux": 0.0,
+    "soft_bg_subtracted": 6.0,
+    "hard_bg_subtracted": 0.0,
+    "source": "aditya"
+  },
+  {
+    "timestamp": "2026-06-20T13:43:58Z",
+    "soft_xray_flux": 7.0,
+    "hard_xray_flux": 0.0,
+    "soft_bg_subtracted": 4.0,
+    "hard_bg_subtracted": 0.0,
+    "source": "aditya"
+  },
+  {
+    "timestamp": "2026-06-20T13:45:23Z",
+    "soft_xray_flux": 6.0,
+    "hard_xray_flux": 0.0,
+    "soft_bg_subtracted": 3.0,
+    "hard_bg_subtracted": 0.0,
+    "source": "aditya"
+  },
+  {
+    "timestamp": "2026-06-20T13:46:48Z",
+    "soft_xray_flux": 11.0,
+    "hard_xray_flux": 0.0,
+    "soft_bg_subtracted": 8.0,
+    "hard_bg_subtracted": 0.0,
+    "source": "aditya"
+  },
+  {
+    "timestamp": "2026-06-20T13:48:13Z",
+    "soft_xray_flux": 5.0,
+    "hard_xray_flux": 2.0,
+    "soft_bg_subtracted": 2.0,
+    "hard_bg_subtracted": 2.0,
+    "source": "aditya"
+  },
+  {
+    "timestamp": "2026-06-20T13:49:38Z",
+    "soft_xray_flux": 9.0,
+    "hard_xray_flux": 0.0,
+    "soft_bg_subtracted": 6.0,
+    "hard_bg_subtracted": 0.0,
+    "source": "aditya"
+  },
+  {
+    "timestamp": "2026-06-20T13:51:03Z",
+    "soft_xray_flux": 5.0,
+    "hard_xray_flux": 0.0,
+    "soft_bg_subtracted": 2.0,
+    "hard_bg_subtracted": 0.0,
+    "source": "aditya"
+  },
+  {
+    "timestamp": "2026-06-20T13:52:28Z",
+    "soft_xray_flux": 8.0,
+    "hard_xray_flux": 0.0,
+    "soft_bg_subtracted": 5.0,
+    "hard_bg_subtracted": 0.0,
+    "source": "aditya"
+  },
+  {
+    "timestamp": "2026-06-20T13:53:53Z",
+    "soft_xray_flux": 5.0,
+    "hard_xray_flux": 0.0,
+    "soft_bg_subtracted": 2.0,
+    "hard_bg_subtracted": 0.0,
+    "source": "aditya"
+  },
+  {
+    "timestamp": "2026-06-20T13:55:18Z",
+    "soft_xray_flux": 11.0,
+    "hard_xray_flux": 0.0,
+    "soft_bg_subtracted": 8.0,
+    "hard_bg_subtracted": 0.0,
+    "source": "aditya"
+  },
+  {
+    "timestamp": "2026-06-20T13:56:43Z",
+    "soft_xray_flux": 6.0,
+    "hard_xray_flux": 0.0,
+    "soft_bg_subtracted": 3.0,
+    "hard_bg_subtracted": 0.0,
+    "source": "aditya"
+  },
+  {
+    "timestamp": "2026-06-20T13:58:08Z",
+    "soft_xray_flux": 7.0,
+    "hard_xray_flux": 0.0,
+    "soft_bg_subtracted": 4.0,
+    "hard_bg_subtracted": 0.0,
+    "source": "aditya"
+  },
+  {
+    "timestamp": "2026-06-20T13:59:33Z",
+    "soft_xray_flux": 16.0,
+    "hard_xray_flux": 0.0,
+    "soft_bg_subtracted": 13.0,
+    "hard_bg_subtracted": 0.0,
+    "source": "aditya"
+  },
+  {
+    "timestamp": "2026-06-20T14:00:58Z",
+    "soft_xray_flux": 8.0,
+    "hard_xray_flux": 0.0,
+    "soft_bg_subtracted": 5.0,
+    "hard_bg_subtracted": 0.0,
+    "source": "aditya"
+  },
+  {
+    "timestamp": "2026-06-20T14:02:23Z",
+    "soft_xray_flux": 11.0,
+    "hard_xray_flux": 0.0,
+    "soft_bg_subtracted": 8.0,
+    "hard_bg_subtracted": 0.0,
+    "source": "aditya"
+  },
+  {
+    "timestamp": "2026-06-20T14:03:48Z",
+    "soft_xray_flux": 12.0,
+    "hard_xray_flux": 0.0,
+    "soft_bg_subtracted": 9.0,
+    "hard_bg_subtracted": 0.0,
+    "source": "aditya"
+  },
+  {
+    "timestamp": "2026-06-20T14:05:13Z",
+    "soft_xray_flux": 10.0,
+    "hard_xray_flux": 2.0,
+    "soft_bg_subtracted": 7.0,
+    "hard_bg_subtracted": 2.0,
+    "source": "aditya"
+  },
+  {
+    "timestamp": "2026-06-20T14:06:38Z",
+    "soft_xray_flux": 14.0,
+    "hard_xray_flux": 0.0,
+    "soft_bg_subtracted": 11.0,
+    "hard_bg_subtracted": 0.0,
+    "source": "aditya"
+  },
+  {
+    "timestamp": "2026-06-20T14:08:03Z",
+    "soft_xray_flux": 5.0,
+    "hard_xray_flux": 0.0,
+    "soft_bg_subtracted": 2.0,
+    "hard_bg_subtracted": 0.0,
+    "source": "aditya"
+  },
+  {
+    "timestamp": "2026-06-20T14:09:28Z",
+    "soft_xray_flux": 11.0,
+    "hard_xray_flux": 0.0,
+    "soft_bg_subtracted": 8.0,
+    "hard_bg_subtracted": 0.0,
+    "source": "aditya"
+  },
+  {
+    "timestamp": "2026-06-20T14:10:53Z",
+    "soft_xray_flux": 8.0,
+    "hard_xray_flux": 0.0,
+    "soft_bg_subtracted": 5.0,
+    "hard_bg_subtracted": 0.0,
+    "source": "aditya"
+  },
+  {
+    "timestamp": "2026-06-20T14:12:18Z",
+    "soft_xray_flux": 10.0,
+    "hard_xray_flux": 0.0,
+    "soft_bg_subtracted": 7.0,
+    "hard_bg_subtracted": 0.0,
+    "source": "aditya"
+  },
+  {
+    "timestamp": "2026-06-20T14:13:43Z",
+    "soft_xray_flux": 5.0,
+    "hard_xray_flux": 0.0,
+    "soft_bg_subtracted": 2.0,
+    "hard_bg_subtracted": 0.0,
+    "source": "aditya"
+  },
+  {
+    "timestamp": "2026-06-20T14:15:08Z",
+    "soft_xray_flux": 7.0,
+    "hard_xray_flux": 0.0,
+    "soft_bg_subtracted": 4.0,
+    "hard_bg_subtracted": 0.0,
+    "source": "aditya"
+  },
+  {
+    "timestamp": "2026-06-20T14:16:33Z",
+    "soft_xray_flux": 5.0,
+    "hard_xray_flux": 0.0,
+    "soft_bg_subtracted": 2.0,
+    "hard_bg_subtracted": 0.0,
+    "source": "aditya"
+  },
+  {
+    "timestamp": "2026-06-20T14:17:58Z",
+    "soft_xray_flux": 8.0,
+    "hard_xray_flux": 0.0,
+    "soft_bg_subtracted": 5.0,
+    "hard_bg_subtracted": 0.0,
+    "source": "aditya"
+  },
+  {
+    "timestamp": "2026-06-20T14:19:23Z",
+    "soft_xray_flux": 3.0,
+    "hard_xray_flux": 0.0,
+    "soft_bg_subtracted": 0.0,
+    "hard_bg_subtracted": 0.0,
+    "source": "aditya"
+  },
+  {
+    "timestamp": "2026-06-20T14:20:48Z",
+    "soft_xray_flux": 4.0,
+    "hard_xray_flux": 0.0,
+    "soft_bg_subtracted": 1.0,
+    "hard_bg_subtracted": 0.0,
+    "source": "aditya"
+  },
+  {
+    "timestamp": "2026-06-20T14:22:13Z",
+    "soft_xray_flux": 4.0,
+    "hard_xray_flux": 0.0,
+    "soft_bg_subtracted": 1.0,
+    "hard_bg_subtracted": 0.0,
+    "source": "aditya"
+  },
+  {
+    "timestamp": "2026-06-20T14:23:38Z",
+    "soft_xray_flux": 8.0,
+    "hard_xray_flux": 0.0,
+    "soft_bg_subtracted": 5.0,
+    "hard_bg_subtracted": 0.0,
+    "source": "aditya"
+  },
+  {
+    "timestamp": "2026-06-20T14:25:03Z",
+    "soft_xray_flux": 1.0,
+    "hard_xray_flux": 0.0,
+    "soft_bg_subtracted": 0.0,
+    "hard_bg_subtracted": 0.0,
+    "source": "aditya"
+  },
+  {
+    "timestamp": "2026-06-20T14:26:28Z",
+    "soft_xray_flux": 4.0,
+    "hard_xray_flux": 0.0,
+    "soft_bg_subtracted": 1.0,
+    "hard_bg_subtracted": 0.0,
+    "source": "aditya"
+  },
+  {
+    "timestamp": "2026-06-20T14:27:53Z",
+    "soft_xray_flux": 7.0,
+    "hard_xray_flux": 0.0,
+    "soft_bg_subtracted": 4.0,
+    "hard_bg_subtracted": 0.0,
+    "source": "aditya"
+  },
+  {
+    "timestamp": "2026-06-20T14:29:18Z",
+    "soft_xray_flux": 5.0,
+    "hard_xray_flux": 0.0,
+    "soft_bg_subtracted": 2.0,
+    "hard_bg_subtracted": 0.0,
+    "source": "aditya"
+  },
+  {
+    "timestamp": "2026-06-20T14:30:43Z",
+    "soft_xray_flux": 7.0,
+    "hard_xray_flux": 0.0,
+    "soft_bg_subtracted": 4.0,
+    "hard_bg_subtracted": 0.0,
+    "source": "aditya"
+  },
+  {
+    "timestamp": "2026-06-20T14:32:08Z",
+    "soft_xray_flux": 3.0,
+    "hard_xray_flux": 0.0,
+    "soft_bg_subtracted": 0.0,
+    "hard_bg_subtracted": 0.0,
+    "source": "aditya"
+  },
+  {
+    "timestamp": "2026-06-20T14:33:33Z",
+    "soft_xray_flux": 9.0,
+    "hard_xray_flux": 0.0,
+    "soft_bg_subtracted": 6.0,
+    "hard_bg_subtracted": 0.0,
+    "source": "aditya"
+  },
+  {
+    "timestamp": "2026-06-20T14:34:58Z",
+    "soft_xray_flux": 10.0,
+    "hard_xray_flux": 0.0,
+    "soft_bg_subtracted": 7.0,
+    "hard_bg_subtracted": 0.0,
+    "source": "aditya"
+  },
+  {
+    "timestamp": "2026-06-20T14:36:23Z",
+    "soft_xray_flux": 6.0,
+    "hard_xray_flux": 1.0,
+    "soft_bg_subtracted": 3.0,
+    "hard_bg_subtracted": 1.0,
+    "source": "aditya"
+  },
+  {
+    "timestamp": "2026-06-20T14:37:48Z",
+    "soft_xray_flux": 2.0,
+    "hard_xray_flux": 0.0,
+    "soft_bg_subtracted": 0.0,
+    "hard_bg_subtracted": 0.0,
+    "source": "aditya"
+  },
+  {
+    "timestamp": "2026-06-20T14:39:13Z",
+    "soft_xray_flux": 9.0,
+    "hard_xray_flux": 0.0,
+    "soft_bg_subtracted": 6.0,
+    "hard_bg_subtracted": 0.0,
+    "source": "aditya"
+  },
+  {
+    "timestamp": "2026-06-20T14:40:38Z",
+    "soft_xray_flux": 9.0,
+    "hard_xray_flux": 0.0,
+    "soft_bg_subtracted": 6.0,
+    "hard_bg_subtracted": 0.0,
+    "source": "aditya"
+  },
+  {
+    "timestamp": "2026-06-20T14:42:03Z",
+    "soft_xray_flux": 6.0,
+    "hard_xray_flux": 0.0,
+    "soft_bg_subtracted": 3.0,
+    "hard_bg_subtracted": 0.0,
+    "source": "aditya"
+  },
+  {
+    "timestamp": "2026-06-20T14:43:28Z",
+    "soft_xray_flux": 7.0,
+    "hard_xray_flux": 0.0,
+    "soft_bg_subtracted": 4.0,
+    "hard_bg_subtracted": 0.0,
+    "source": "aditya"
+  },
+  {
+    "timestamp": "2026-06-20T14:44:53Z",
+    "soft_xray_flux": 9.0,
+    "hard_xray_flux": 0.0,
+    "soft_bg_subtracted": 6.0,
+    "hard_bg_subtracted": 0.0,
+    "source": "aditya"
+  },
+  {
+    "timestamp": "2026-06-20T14:46:18Z",
+    "soft_xray_flux": 9.0,
+    "hard_xray_flux": 0.0,
+    "soft_bg_subtracted": 6.0,
+    "hard_bg_subtracted": 0.0,
+    "source": "aditya"
+  },
+  {
+    "timestamp": "2026-06-20T14:47:43Z",
+    "soft_xray_flux": 6.0,
+    "hard_xray_flux": 0.0,
+    "soft_bg_subtracted": 3.0,
+    "hard_bg_subtracted": 0.0,
+    "source": "aditya"
+  },
+  {
+    "timestamp": "2026-06-20T14:49:08Z",
+    "soft_xray_flux": 5.0,
+    "hard_xray_flux": 0.0,
+    "soft_bg_subtracted": 2.0,
+    "hard_bg_subtracted": 0.0,
+    "source": "aditya"
+  },
+  {
+    "timestamp": "2026-06-20T14:50:33Z",
+    "soft_xray_flux": 3.0,
+    "hard_xray_flux": 1.0,
+    "soft_bg_subtracted": 0.0,
+    "hard_bg_subtracted": 1.0,
+    "source": "aditya"
+  },
+  {
+    "timestamp": "2026-06-20T14:51:58Z",
+    "soft_xray_flux": 12.0,
+    "hard_xray_flux": 0.0,
+    "soft_bg_subtracted": 9.0,
+    "hard_bg_subtracted": 0.0,
+    "source": "aditya"
+  },
+  {
+    "timestamp": "2026-06-20T14:53:23Z",
+    "soft_xray_flux": 6.0,
+    "hard_xray_flux": 3.0,
+    "soft_bg_subtracted": 3.0,
+    "hard_bg_subtracted": 3.0,
+    "source": "aditya"
+  },
+  {
+    "timestamp": "2026-06-20T14:54:48Z",
+    "soft_xray_flux": 12.0,
+    "hard_xray_flux": 0.0,
+    "soft_bg_subtracted": 9.0,
+    "hard_bg_subtracted": 0.0,
+    "source": "aditya"
+  },
+  {
+    "timestamp": "2026-06-20T14:56:13Z",
+    "soft_xray_flux": 4.0,
+    "hard_xray_flux": 0.0,
+    "soft_bg_subtracted": 1.0,
+    "hard_bg_subtracted": 0.0,
+    "source": "aditya"
+  },
+  {
+    "timestamp": "2026-06-20T14:57:38Z",
+    "soft_xray_flux": 29.0,
+    "hard_xray_flux": 0.0,
+    "soft_bg_subtracted": 26.0,
+    "hard_bg_subtracted": 0.0,
+    "source": "aditya"
+  },
+  {
+    "timestamp": "2026-06-20T14:59:03Z",
+    "soft_xray_flux": 379.0,
+    "hard_xray_flux": 535.0,
+    "soft_bg_subtracted": 376.0,
+    "hard_bg_subtracted": 535.0,
+    "source": "aditya"
+  },
+  {
+    "timestamp": "2026-06-20T15:00:28Z",
+    "soft_xray_flux": 665.0,
+    "hard_xray_flux": 0.0,
+    "soft_bg_subtracted": 662.0,
+    "hard_bg_subtracted": 0.0,
+    "source": "aditya"
+  },
+  {
+    "timestamp": "2026-06-20T15:01:53Z",
+    "soft_xray_flux": 546.0,
+    "hard_xray_flux": 299.0,
+    "soft_bg_subtracted": 543.0,
+    "hard_bg_subtracted": 299.0,
+    "source": "aditya"
+  },
+  {
+    "timestamp": "2026-06-20T15:03:18Z",
+    "soft_xray_flux": 396.0,
+    "hard_xray_flux": 21.0,
+    "soft_bg_subtracted": 393.0,
+    "hard_bg_subtracted": 21.0,
+    "source": "aditya"
+  },
+  {
+    "timestamp": "2026-06-20T15:04:43Z",
+    "soft_xray_flux": 308.0,
+    "hard_xray_flux": 0.0,
+    "soft_bg_subtracted": 305.0,
+    "hard_bg_subtracted": 0.0,
+    "source": "aditya"
+  },
+  {
+    "timestamp": "2026-06-20T15:06:08Z",
+    "soft_xray_flux": 242.0,
+    "hard_xray_flux": 0.0,
+    "soft_bg_subtracted": 239.0,
+    "hard_bg_subtracted": 0.0,
+    "source": "aditya"
+  },
+  {
+    "timestamp": "2026-06-20T15:07:33Z",
+    "soft_xray_flux": 239.0,
+    "hard_xray_flux": 8.0,
+    "soft_bg_subtracted": 236.0,
+    "hard_bg_subtracted": 8.0,
+    "source": "aditya"
+  },
+  {
+    "timestamp": "2026-06-20T15:08:58Z",
+    "soft_xray_flux": 218.0,
+    "hard_xray_flux": 58.0,
+    "soft_bg_subtracted": 215.0,
+    "hard_bg_subtracted": 58.0,
+    "source": "aditya"
+  },
+  {
+    "timestamp": "2026-06-20T15:10:23Z",
+    "soft_xray_flux": 172.0,
+    "hard_xray_flux": 0.0,
+    "soft_bg_subtracted": 169.0,
+    "hard_bg_subtracted": 0.0,
+    "source": "aditya"
+  },
+  {
+    "timestamp": "2026-06-20T15:11:48Z",
+    "soft_xray_flux": 151.0,
+    "hard_xray_flux": 0.0,
+    "soft_bg_subtracted": 148.0,
+    "hard_bg_subtracted": 0.0,
+    "source": "aditya"
+  },
+  {
+    "timestamp": "2026-06-20T15:13:13Z",
+    "soft_xray_flux": 129.0,
+    "hard_xray_flux": 0.0,
+    "soft_bg_subtracted": 126.0,
+    "hard_bg_subtracted": 0.0,
+    "source": "aditya"
+  },
+  {
+    "timestamp": "2026-06-20T15:14:38Z",
+    "soft_xray_flux": 102.0,
+    "hard_xray_flux": 9.0,
+    "soft_bg_subtracted": 99.0,
+    "hard_bg_subtracted": 9.0,
+    "source": "aditya"
+  },
+  {
+    "timestamp": "2026-06-20T15:16:03Z",
+    "soft_xray_flux": 91.0,
+    "hard_xray_flux": 0.0,
+    "soft_bg_subtracted": 88.0,
+    "hard_bg_subtracted": 0.0,
+    "source": "aditya"
+  },
+  {
+    "timestamp": "2026-06-20T15:17:28Z",
+    "soft_xray_flux": 64.0,
+    "hard_xray_flux": 5.0,
+    "soft_bg_subtracted": 61.0,
+    "hard_bg_subtracted": 5.0,
+    "source": "aditya"
+  },
+  {
+    "timestamp": "2026-06-20T15:18:53Z",
+    "soft_xray_flux": 73.0,
+    "hard_xray_flux": 0.0,
+    "soft_bg_subtracted": 70.0,
+    "hard_bg_subtracted": 0.0,
+    "source": "aditya"
+  },
+  {
+    "timestamp": "2026-06-20T15:20:18Z",
+    "soft_xray_flux": 63.0,
+    "hard_xray_flux": 0.0,
+    "soft_bg_subtracted": 60.0,
+    "hard_bg_subtracted": 0.0,
+    "source": "aditya"
+  },
+  {
+    "timestamp": "2026-06-20T15:21:43Z",
+    "soft_xray_flux": 57.0,
+    "hard_xray_flux": 0.0,
+    "soft_bg_subtracted": 54.0,
+    "hard_bg_subtracted": 0.0,
+    "source": "aditya"
+  },
+  {
+    "timestamp": "2026-06-20T15:23:08Z",
+    "soft_xray_flux": 49.0,
+    "hard_xray_flux": 0.0,
+    "soft_bg_subtracted": 46.0,
+    "hard_bg_subtracted": 0.0,
+    "source": "aditya"
+  },
+  {
+    "timestamp": "2026-06-20T15:24:33Z",
+    "soft_xray_flux": 35.0,
+    "hard_xray_flux": 0.0,
+    "soft_bg_subtracted": 32.0,
+    "hard_bg_subtracted": 0.0,
+    "source": "aditya"
+  },
+  {
+    "timestamp": "2026-06-20T15:25:58Z",
+    "soft_xray_flux": 39.0,
+    "hard_xray_flux": 0.0,
+    "soft_bg_subtracted": 36.0,
+    "hard_bg_subtracted": 0.0,
+    "source": "aditya"
+  },
+  {
+    "timestamp": "2026-06-20T15:27:23Z",
+    "soft_xray_flux": 32.0,
+    "hard_xray_flux": 0.0,
+    "soft_bg_subtracted": 29.0,
+    "hard_bg_subtracted": 0.0,
+    "source": "aditya"
+  },
+  {
+    "timestamp": "2026-06-20T15:28:48Z",
+    "soft_xray_flux": 30.0,
+    "hard_xray_flux": 0.0,
+    "soft_bg_subtracted": 27.0,
+    "hard_bg_subtracted": 0.0,
+    "source": "aditya"
+  },
+  {
+    "timestamp": "2026-06-20T15:30:13Z",
+    "soft_xray_flux": 20.0,
+    "hard_xray_flux": 0.0,
+    "soft_bg_subtracted": 17.0,
+    "hard_bg_subtracted": 0.0,
+    "source": "aditya"
+  },
+  {
+    "timestamp": "2026-06-20T15:31:38Z",
+    "soft_xray_flux": 18.0,
+    "hard_xray_flux": 0.0,
+    "soft_bg_subtracted": 15.0,
+    "hard_bg_subtracted": 0.0,
+    "source": "aditya"
+  },
+  {
+    "timestamp": "2026-06-20T15:33:03Z",
+    "soft_xray_flux": 22.0,
+    "hard_xray_flux": 0.0,
+    "soft_bg_subtracted": 19.0,
+    "hard_bg_subtracted": 0.0,
+    "source": "aditya"
+  },
+  {
+    "timestamp": "2026-06-20T15:34:28Z",
+    "soft_xray_flux": 14.0,
+    "hard_xray_flux": 0.0,
+    "soft_bg_subtracted": 11.0,
+    "hard_bg_subtracted": 0.0,
+    "source": "aditya"
+  },
+  {
+    "timestamp": "2026-06-20T15:35:53Z",
+    "soft_xray_flux": 14.0,
+    "hard_xray_flux": 0.0,
+    "soft_bg_subtracted": 11.0,
+    "hard_bg_subtracted": 0.0,
+    "source": "aditya"
+  },
+  {
+    "timestamp": "2026-06-20T15:37:18Z",
+    "soft_xray_flux": 15.0,
+    "hard_xray_flux": 0.0,
+    "soft_bg_subtracted": 12.0,
+    "hard_bg_subtracted": 0.0,
+    "source": "aditya"
+  },
+  {
+    "timestamp": "2026-06-20T15:38:43Z",
+    "soft_xray_flux": 10.0,
+    "hard_xray_flux": 0.0,
+    "soft_bg_subtracted": 7.0,
+    "hard_bg_subtracted": 0.0,
+    "source": "aditya"
+  },
+  {
+    "timestamp": "2026-06-20T15:40:08Z",
+    "soft_xray_flux": 11.0,
+    "hard_xray_flux": 0.0,
+    "soft_bg_subtracted": 8.0,
+    "hard_bg_subtracted": 0.0,
+    "source": "aditya"
+  },
+  {
+    "timestamp": "2026-06-20T15:41:33Z",
+    "soft_xray_flux": 13.0,
+    "hard_xray_flux": 0.0,
+    "soft_bg_subtracted": 10.0,
+    "hard_bg_subtracted": 0.0,
+    "source": "aditya"
+  },
+  {
+    "timestamp": "2026-06-20T15:42:58Z",
+    "soft_xray_flux": 10.0,
+    "hard_xray_flux": 0.0,
+    "soft_bg_subtracted": 7.0,
+    "hard_bg_subtracted": 0.0,
+    "source": "aditya"
+  },
+  {
+    "timestamp": "2026-06-20T15:44:23Z",
+    "soft_xray_flux": 5.0,
+    "hard_xray_flux": 0.0,
+    "soft_bg_subtracted": 2.0,
+    "hard_bg_subtracted": 0.0,
+    "source": "aditya"
+  },
+  {
+    "timestamp": "2026-06-20T15:45:48Z",
+    "soft_xray_flux": 5.0,
+    "hard_xray_flux": 0.0,
+    "soft_bg_subtracted": 2.0,
+    "hard_bg_subtracted": 0.0,
+    "source": "aditya"
+  },
+  {
+    "timestamp": "2026-06-20T15:47:13Z",
+    "soft_xray_flux": 8.0,
+    "hard_xray_flux": 0.0,
+    "soft_bg_subtracted": 5.0,
+    "hard_bg_subtracted": 0.0,
+    "source": "aditya"
+  },
+  {
+    "timestamp": "2026-06-20T15:48:38Z",
+    "soft_xray_flux": 10.0,
+    "hard_xray_flux": 0.0,
+    "soft_bg_subtracted": 7.0,
+    "hard_bg_subtracted": 0.0,
+    "source": "aditya"
+  },
+  {
+    "timestamp": "2026-06-20T15:50:03Z",
+    "soft_xray_flux": 9.0,
+    "hard_xray_flux": 0.0,
+    "soft_bg_subtracted": 6.0,
+    "hard_bg_subtracted": 0.0,
+    "source": "aditya"
+  },
+  {
+    "timestamp": "2026-06-20T15:51:28Z",
+    "soft_xray_flux": 6.0,
+    "hard_xray_flux": 0.0,
+    "soft_bg_subtracted": 3.0,
+    "hard_bg_subtracted": 0.0,
+    "source": "aditya"
+  },
+  {
+    "timestamp": "2026-06-20T15:52:53Z",
+    "soft_xray_flux": 7.0,
+    "hard_xray_flux": 0.0,
+    "soft_bg_subtracted": 4.0,
+    "hard_bg_subtracted": 0.0,
+    "source": "aditya"
+  },
+  {
+    "timestamp": "2026-06-20T15:54:18Z",
+    "soft_xray_flux": 5.0,
+    "hard_xray_flux": 0.0,
+    "soft_bg_subtracted": 2.0,
+    "hard_bg_subtracted": 0.0,
+    "source": "aditya"
+  },
+  {
+    "timestamp": "2026-06-20T15:55:43Z",
+    "soft_xray_flux": 5.0,
+    "hard_xray_flux": 0.0,
+    "soft_bg_subtracted": 2.0,
+    "hard_bg_subtracted": 0.0,
+    "source": "aditya"
+  },
+  {
+    "timestamp": "2026-06-20T15:57:08Z",
+    "soft_xray_flux": 4.0,
+    "hard_xray_flux": 0.0,
+    "soft_bg_subtracted": 1.0,
+    "hard_bg_subtracted": 0.0,
+    "source": "aditya"
+  },
+  {
+    "timestamp": "2026-06-20T15:58:33Z",
+    "soft_xray_flux": 6.0,
+    "hard_xray_flux": 0.0,
+    "soft_bg_subtracted": 3.0,
+    "hard_bg_subtracted": 0.0,
+    "source": "aditya"
+  },
+  {
+    "timestamp": "2026-06-20T15:59:58Z",
+    "soft_xray_flux": 2.0,
+    "hard_xray_flux": 0.0,
+    "soft_bg_subtracted": 0.0,
+    "hard_bg_subtracted": 0.0,
+    "source": "aditya"
+  },
+  {
+    "timestamp": "2026-06-20T16:01:23Z",
+    "soft_xray_flux": 6.0,
+    "hard_xray_flux": 0.0,
+    "soft_bg_subtracted": 3.0,
+    "hard_bg_subtracted": 0.0,
+    "source": "aditya"
+  },
+  {
+    "timestamp": "2026-06-20T16:02:48Z",
+    "soft_xray_flux": 3.0,
+    "hard_xray_flux": 0.0,
+    "soft_bg_subtracted": 0.0,
+    "hard_bg_subtracted": 0.0,
+    "source": "aditya"
+  },
+  {
+    "timestamp": "2026-06-20T16:04:13Z",
+    "soft_xray_flux": 4.0,
+    "hard_xray_flux": 0.0,
+    "soft_bg_subtracted": 1.0,
+    "hard_bg_subtracted": 0.0,
+    "source": "aditya"
+  },
+  {
+    "timestamp": "2026-06-20T16:05:38Z",
+    "soft_xray_flux": 2.0,
+    "hard_xray_flux": 0.0,
+    "soft_bg_subtracted": 0.0,
+    "hard_bg_subtracted": 0.0,
+    "source": "aditya"
+  },
+  {
+    "timestamp": "2026-06-20T16:07:03Z",
+    "soft_xray_flux": 2.0,
+    "hard_xray_flux": 0.0,
+    "soft_bg_subtracted": 0.0,
+    "hard_bg_subtracted": 0.0,
+    "source": "aditya"
+  },
+  {
+    "timestamp": "2026-06-20T16:08:28Z",
+    "soft_xray_flux": 4.0,
+    "hard_xray_flux": 0.0,
+    "soft_bg_subtracted": 1.0,
+    "hard_bg_subtracted": 0.0,
+    "source": "aditya"
+  },
+  {
+    "timestamp": "2026-06-20T16:09:53Z",
+    "soft_xray_flux": 8.0,
+    "hard_xray_flux": 0.0,
+    "soft_bg_subtracted": 5.0,
+    "hard_bg_subtracted": 0.0,
+    "source": "aditya"
+  },
+  {
+    "timestamp": "2026-06-20T16:11:18Z",
+    "soft_xray_flux": 3.0,
+    "hard_xray_flux": 0.0,
+    "soft_bg_subtracted": 0.0,
+    "hard_bg_subtracted": 0.0,
+    "source": "aditya"
+  },
+  {
+    "timestamp": "2026-06-20T16:12:43Z",
+    "soft_xray_flux": 10.0,
+    "hard_xray_flux": 0.0,
+    "soft_bg_subtracted": 7.0,
+    "hard_bg_subtracted": 0.0,
+    "source": "aditya"
+  },
+  {
+    "timestamp": "2026-06-20T16:14:08Z",
+    "soft_xray_flux": 0.0,
+    "hard_xray_flux": 0.0,
+    "soft_bg_subtracted": 0.0,
+    "hard_bg_subtracted": 0.0,
+    "source": "aditya"
+  },
+  {
+    "timestamp": "2026-06-20T16:15:33Z",
+    "soft_xray_flux": 6.0,
+    "hard_xray_flux": 0.0,
+    "soft_bg_subtracted": 3.0,
+    "hard_bg_subtracted": 0.0,
+    "source": "aditya"
+  },
+  {
+    "timestamp": "2026-06-20T16:16:58Z",
+    "soft_xray_flux": 1.0,
+    "hard_xray_flux": 0.0,
+    "soft_bg_subtracted": 0.0,
+    "hard_bg_subtracted": 0.0,
+    "source": "aditya"
+  },
+  {
+    "timestamp": "2026-06-20T16:18:23Z",
+    "soft_xray_flux": 2.0,
+    "hard_xray_flux": 0.0,
+    "soft_bg_subtracted": 0.0,
+    "hard_bg_subtracted": 0.0,
+    "source": "aditya"
+  },
+  {
+    "timestamp": "2026-06-20T16:19:48Z",
+    "soft_xray_flux": 1.0,
+    "hard_xray_flux": 0.0,
+    "soft_bg_subtracted": 0.0,
+    "hard_bg_subtracted": 0.0,
+    "source": "aditya"
+  },
+  {
+    "timestamp": "2026-06-20T16:21:13Z",
+    "soft_xray_flux": 5.0,
+    "hard_xray_flux": 0.0,
+    "soft_bg_subtracted": 2.0,
+    "hard_bg_subtracted": 0.0,
+    "source": "aditya"
+  },
+  {
+    "timestamp": "2026-06-20T16:22:38Z",
+    "soft_xray_flux": 6.0,
+    "hard_xray_flux": 0.0,
+    "soft_bg_subtracted": 3.0,
+    "hard_bg_subtracted": 0.0,
+    "source": "aditya"
+  },
+  {
+    "timestamp": "2026-06-20T16:24:03Z",
+    "soft_xray_flux": 2.0,
+    "hard_xray_flux": 5.0,
+    "soft_bg_subtracted": 0.0,
+    "hard_bg_subtracted": 5.0,
+    "source": "aditya"
+  },
+  {
+    "timestamp": "2026-06-20T16:25:28Z",
+    "soft_xray_flux": 2.0,
+    "hard_xray_flux": 0.0,
+    "soft_bg_subtracted": 0.0,
+    "hard_bg_subtracted": 0.0,
+    "source": "aditya"
+  },
+  {
+    "timestamp": "2026-06-20T16:26:53Z",
+    "soft_xray_flux": 4.0,
+    "hard_xray_flux": 0.0,
+    "soft_bg_subtracted": 1.0,
+    "hard_bg_subtracted": 0.0,
+    "source": "aditya"
+  },
+  {
+    "timestamp": "2026-06-20T16:28:18Z",
+    "soft_xray_flux": 2.0,
+    "hard_xray_flux": 0.0,
+    "soft_bg_subtracted": 0.0,
+    "hard_bg_subtracted": 0.0,
+    "source": "aditya"
+  },
+  {
+    "timestamp": "2026-06-20T16:29:43Z",
+    "soft_xray_flux": 5.0,
+    "hard_xray_flux": 0.0,
+    "soft_bg_subtracted": 2.0,
+    "hard_bg_subtracted": 0.0,
+    "source": "aditya"
+  },
+  {
+    "timestamp": "2026-06-20T16:31:08Z",
+    "soft_xray_flux": 2.0,
+    "hard_xray_flux": 0.0,
+    "soft_bg_subtracted": 0.0,
+    "hard_bg_subtracted": 0.0,
+    "source": "aditya"
+  },
+  {
+    "timestamp": "2026-06-20T16:32:33Z",
+    "soft_xray_flux": 3.0,
+    "hard_xray_flux": 0.0,
+    "soft_bg_subtracted": 0.0,
+    "hard_bg_subtracted": 0.0,
+    "source": "aditya"
+  },
+  {
+    "timestamp": "2026-06-20T16:33:58Z",
+    "soft_xray_flux": 5.0,
+    "hard_xray_flux": 2.0,
+    "soft_bg_subtracted": 2.0,
+    "hard_bg_subtracted": 2.0,
+    "source": "aditya"
+  },
+  {
+    "timestamp": "2026-06-20T16:35:23Z",
+    "soft_xray_flux": 3.0,
+    "hard_xray_flux": 0.0,
+    "soft_bg_subtracted": 0.0,
+    "hard_bg_subtracted": 0.0,
+    "source": "aditya"
+  },
+  {
+    "timestamp": "2026-06-20T16:36:48Z",
+    "soft_xray_flux": 4.0,
+    "hard_xray_flux": 1.0,
+    "soft_bg_subtracted": 1.0,
+    "hard_bg_subtracted": 1.0,
+    "source": "aditya"
+  },
+  {
+    "timestamp": "2026-06-20T16:38:13Z",
+    "soft_xray_flux": 2.0,
+    "hard_xray_flux": 0.0,
+    "soft_bg_subtracted": 0.0,
+    "hard_bg_subtracted": 0.0,
+    "source": "aditya"
+  },
+  {
+    "timestamp": "2026-06-20T16:39:38Z",
+    "soft_xray_flux": 3.0,
+    "hard_xray_flux": 0.0,
+    "soft_bg_subtracted": 0.0,
+    "hard_bg_subtracted": 0.0,
+    "source": "aditya"
+  },
+  {
+    "timestamp": "2026-06-20T16:41:03Z",
+    "soft_xray_flux": 2.0,
+    "hard_xray_flux": 0.0,
+    "soft_bg_subtracted": 0.0,
+    "hard_bg_subtracted": 0.0,
+    "source": "aditya"
+  },
+  {
+    "timestamp": "2026-06-20T16:42:28Z",
+    "soft_xray_flux": 4.0,
+    "hard_xray_flux": 0.0,
+    "soft_bg_subtracted": 1.0,
+    "hard_bg_subtracted": 0.0,
+    "source": "aditya"
+  },
+  {
+    "timestamp": "2026-06-20T16:43:53Z",
+    "soft_xray_flux": 9.0,
+    "hard_xray_flux": 0.0,
+    "soft_bg_subtracted": 6.0,
+    "hard_bg_subtracted": 0.0,
+    "source": "aditya"
+  },
+  {
+    "timestamp": "2026-06-20T16:45:18Z",
+    "soft_xray_flux": 2.0,
+    "hard_xray_flux": 0.0,
+    "soft_bg_subtracted": 0.0,
+    "hard_bg_subtracted": 0.0,
+    "source": "aditya"
+  },
+  {
+    "timestamp": "2026-06-20T16:46:43Z",
+    "soft_xray_flux": 3.0,
+    "hard_xray_flux": 0.0,
+    "soft_bg_subtracted": 0.0,
+    "hard_bg_subtracted": 0.0,
+    "source": "aditya"
+  },
+  {
+    "timestamp": "2026-06-20T16:48:08Z",
+    "soft_xray_flux": 1.0,
+    "hard_xray_flux": 0.0,
+    "soft_bg_subtracted": 0.0,
+    "hard_bg_subtracted": 0.0,
+    "source": "aditya"
+  },
+  {
+    "timestamp": "2026-06-20T16:49:33Z",
+    "soft_xray_flux": 2.0,
+    "hard_xray_flux": 0.0,
+    "soft_bg_subtracted": 0.0,
+    "hard_bg_subtracted": 0.0,
+    "source": "aditya"
+  },
+  {
+    "timestamp": "2026-06-20T16:50:58Z",
+    "soft_xray_flux": 4.0,
+    "hard_xray_flux": 0.0,
+    "soft_bg_subtracted": 1.0,
+    "hard_bg_subtracted": 0.0,
+    "source": "aditya"
+  },
+  {
+    "timestamp": "2026-06-20T16:52:23Z",
+    "soft_xray_flux": 2.0,
+    "hard_xray_flux": 0.0,
+    "soft_bg_subtracted": 0.0,
+    "hard_bg_subtracted": 0.0,
+    "source": "aditya"
+  },
+  {
+    "timestamp": "2026-06-20T16:53:48Z",
+    "soft_xray_flux": 3.0,
+    "hard_xray_flux": 0.0,
+    "soft_bg_subtracted": 0.0,
+    "hard_bg_subtracted": 0.0,
+    "source": "aditya"
+  },
+  {
+    "timestamp": "2026-06-20T16:55:13Z",
+    "soft_xray_flux": 3.0,
+    "hard_xray_flux": 0.0,
+    "soft_bg_subtracted": 0.0,
+    "hard_bg_subtracted": 0.0,
+    "source": "aditya"
+  },
+  {
+    "timestamp": "2026-06-20T16:56:38Z",
+    "soft_xray_flux": 5.0,
+    "hard_xray_flux": 0.0,
+    "soft_bg_subtracted": 2.0,
+    "hard_bg_subtracted": 0.0,
+    "source": "aditya"
+  },
+  {
+    "timestamp": "2026-06-20T16:58:03Z",
+    "soft_xray_flux": 5.0,
+    "hard_xray_flux": 0.0,
+    "soft_bg_subtracted": 2.0,
+    "hard_bg_subtracted": 0.0,
+    "source": "aditya"
+  },
+  {
+    "timestamp": "2026-06-20T16:59:28Z",
+    "soft_xray_flux": 4.0,
+    "hard_xray_flux": 0.0,
+    "soft_bg_subtracted": 1.0,
+    "hard_bg_subtracted": 0.0,
+    "source": "aditya"
+  },
+  {
+    "timestamp": "2026-06-20T17:00:53Z",
+    "soft_xray_flux": 5.0,
+    "hard_xray_flux": 0.0,
+    "soft_bg_subtracted": 2.0,
+    "hard_bg_subtracted": 0.0,
+    "source": "aditya"
+  },
+  {
+    "timestamp": "2026-06-20T17:02:18Z",
+    "soft_xray_flux": 4.0,
+    "hard_xray_flux": 0.0,
+    "soft_bg_subtracted": 1.0,
+    "hard_bg_subtracted": 0.0,
+    "source": "aditya"
+  },
+  {
+    "timestamp": "2026-06-20T17:03:43Z",
+    "soft_xray_flux": 2.0,
+    "hard_xray_flux": 0.0,
+    "soft_bg_subtracted": 0.0,
+    "hard_bg_subtracted": 0.0,
+    "source": "aditya"
+  },
+  {
+    "timestamp": "2026-06-20T17:05:08Z",
+    "soft_xray_flux": 5.0,
+    "hard_xray_flux": 0.0,
+    "soft_bg_subtracted": 2.0,
+    "hard_bg_subtracted": 0.0,
+    "source": "aditya"
+  },
+  {
+    "timestamp": "2026-06-20T17:06:33Z",
+    "soft_xray_flux": 4.0,
+    "hard_xray_flux": 0.0,
+    "soft_bg_subtracted": 1.0,
+    "hard_bg_subtracted": 0.0,
+    "source": "aditya"
+  },
+  {
+    "timestamp": "2026-06-20T17:07:58Z",
+    "soft_xray_flux": 4.0,
+    "hard_xray_flux": 0.0,
+    "soft_bg_subtracted": 1.0,
+    "hard_bg_subtracted": 0.0,
+    "source": "aditya"
+  },
+  {
+    "timestamp": "2026-06-20T17:09:23Z",
+    "soft_xray_flux": 8.0,
+    "hard_xray_flux": 0.0,
+    "soft_bg_subtracted": 5.0,
+    "hard_bg_subtracted": 0.0,
+    "source": "aditya"
+  },
+  {
+    "timestamp": "2026-06-20T17:10:48Z",
+    "soft_xray_flux": 3.0,
+    "hard_xray_flux": 0.0,
+    "soft_bg_subtracted": 0.0,
+    "hard_bg_subtracted": 0.0,
+    "source": "aditya"
+  },
+  {
+    "timestamp": "2026-06-20T17:12:13Z",
+    "soft_xray_flux": 8.0,
+    "hard_xray_flux": 1.0,
+    "soft_bg_subtracted": 5.0,
+    "hard_bg_subtracted": 1.0,
+    "source": "aditya"
+  },
+  {
+    "timestamp": "2026-06-20T17:13:38Z",
+    "soft_xray_flux": 7.0,
+    "hard_xray_flux": 0.0,
+    "soft_bg_subtracted": 4.0,
+    "hard_bg_subtracted": 0.0,
+    "source": "aditya"
+  },
+  {
+    "timestamp": "2026-06-20T17:15:03Z",
+    "soft_xray_flux": 3.0,
+    "hard_xray_flux": 0.0,
+    "soft_bg_subtracted": 0.0,
+    "hard_bg_subtracted": 0.0,
+    "source": "aditya"
+  },
+  {
+    "timestamp": "2026-06-20T17:16:28Z",
+    "soft_xray_flux": 8.0,
+    "hard_xray_flux": 0.0,
+    "soft_bg_subtracted": 5.0,
+    "hard_bg_subtracted": 0.0,
+    "source": "aditya"
+  },
+  {
+    "timestamp": "2026-06-20T17:17:53Z",
+    "soft_xray_flux": 10.0,
+    "hard_xray_flux": 0.0,
+    "soft_bg_subtracted": 7.0,
+    "hard_bg_subtracted": 0.0,
+    "source": "aditya"
+  },
+  {
+    "timestamp": "2026-06-20T17:19:18Z",
+    "soft_xray_flux": 12.0,
+    "hard_xray_flux": 0.0,
+    "soft_bg_subtracted": 9.0,
+    "hard_bg_subtracted": 0.0,
+    "source": "aditya"
+  },
+  {
+    "timestamp": "2026-06-20T17:20:43Z",
+    "soft_xray_flux": 6.0,
+    "hard_xray_flux": 0.0,
+    "soft_bg_subtracted": 3.0,
+    "hard_bg_subtracted": 0.0,
+    "source": "aditya"
+  },
+  {
+    "timestamp": "2026-06-20T17:22:08Z",
+    "soft_xray_flux": 5.0,
+    "hard_xray_flux": 0.0,
+    "soft_bg_subtracted": 2.0,
+    "hard_bg_subtracted": 0.0,
+    "source": "aditya"
+  },
+  {
+    "timestamp": "2026-06-20T17:23:33Z",
+    "soft_xray_flux": 5.0,
+    "hard_xray_flux": 3.0,
+    "soft_bg_subtracted": 2.0,
+    "hard_bg_subtracted": 3.0,
+    "source": "aditya"
+  },
+  {
+    "timestamp": "2026-06-20T17:24:58Z",
+    "soft_xray_flux": 4.0,
+    "hard_xray_flux": 0.0,
+    "soft_bg_subtracted": 1.0,
+    "hard_bg_subtracted": 0.0,
+    "source": "aditya"
+  },
+  {
+    "timestamp": "2026-06-20T17:26:23Z",
+    "soft_xray_flux": 2.0,
+    "hard_xray_flux": 0.0,
+    "soft_bg_subtracted": 0.0,
+    "hard_bg_subtracted": 0.0,
+    "source": "aditya"
+  },
+  {
+    "timestamp": "2026-06-20T17:27:48Z",
+    "soft_xray_flux": 10.0,
+    "hard_xray_flux": 0.0,
+    "soft_bg_subtracted": 7.0,
+    "hard_bg_subtracted": 0.0,
+    "source": "aditya"
+  },
+  {
+    "timestamp": "2026-06-20T17:29:13Z",
+    "soft_xray_flux": 5.0,
+    "hard_xray_flux": 0.0,
+    "soft_bg_subtracted": 2.0,
+    "hard_bg_subtracted": 0.0,
+    "source": "aditya"
+  },
+  {
+    "timestamp": "2026-06-20T17:30:38Z",
+    "soft_xray_flux": 5.0,
+    "hard_xray_flux": 0.0,
+    "soft_bg_subtracted": 2.0,
+    "hard_bg_subtracted": 0.0,
+    "source": "aditya"
+  },
+  {
+    "timestamp": "2026-06-20T17:32:03Z",
+    "soft_xray_flux": 3.0,
+    "hard_xray_flux": 0.0,
+    "soft_bg_subtracted": 0.0,
+    "hard_bg_subtracted": 0.0,
+    "source": "aditya"
+  },
+  {
+    "timestamp": "2026-06-20T17:33:28Z",
+    "soft_xray_flux": 2.0,
+    "hard_xray_flux": 0.0,
+    "soft_bg_subtracted": 0.0,
+    "hard_bg_subtracted": 0.0,
+    "source": "aditya"
+  },
+  {
+    "timestamp": "2026-06-20T17:34:53Z",
+    "soft_xray_flux": 3.0,
+    "hard_xray_flux": 2.0,
+    "soft_bg_subtracted": 0.0,
+    "hard_bg_subtracted": 2.0,
+    "source": "aditya"
+  },
+  {
+    "timestamp": "2026-06-20T17:36:18Z",
+    "soft_xray_flux": 4.0,
+    "hard_xray_flux": 0.0,
+    "soft_bg_subtracted": 1.0,
+    "hard_bg_subtracted": 0.0,
+    "source": "aditya"
+  },
+  {
+    "timestamp": "2026-06-20T17:37:43Z",
+    "soft_xray_flux": 14.0,
+    "hard_xray_flux": 0.0,
+    "soft_bg_subtracted": 11.0,
+    "hard_bg_subtracted": 0.0,
+    "source": "aditya"
+  },
+  {
+    "timestamp": "2026-06-20T17:39:08Z",
+    "soft_xray_flux": 5.0,
+    "hard_xray_flux": 0.0,
+    "soft_bg_subtracted": 2.0,
+    "hard_bg_subtracted": 0.0,
+    "source": "aditya"
+  },
+  {
+    "timestamp": "2026-06-20T17:40:33Z",
+    "soft_xray_flux": 4.0,
+    "hard_xray_flux": 0.0,
+    "soft_bg_subtracted": 1.0,
+    "hard_bg_subtracted": 0.0,
+    "source": "aditya"
+  },
+  {
+    "timestamp": "2026-06-20T17:41:58Z",
+    "soft_xray_flux": 8.0,
+    "hard_xray_flux": 0.0,
+    "soft_bg_subtracted": 5.0,
+    "hard_bg_subtracted": 0.0,
+    "source": "aditya"
+  },
+  {
+    "timestamp": "2026-06-20T17:43:23Z",
+    "soft_xray_flux": 6.0,
+    "hard_xray_flux": 0.0,
+    "soft_bg_subtracted": 3.0,
+    "hard_bg_subtracted": 0.0,
+    "source": "aditya"
+  },
+  {
+    "timestamp": "2026-06-20T17:44:48Z",
+    "soft_xray_flux": 3.0,
+    "hard_xray_flux": 0.0,
+    "soft_bg_subtracted": 0.0,
+    "hard_bg_subtracted": 0.0,
+    "source": "aditya"
+  },
+  {
+    "timestamp": "2026-06-20T17:46:13Z",
+    "soft_xray_flux": 4.0,
+    "hard_xray_flux": 1.0,
+    "soft_bg_subtracted": 1.0,
+    "hard_bg_subtracted": 1.0,
+    "source": "aditya"
+  },
+  {
+    "timestamp": "2026-06-20T17:47:38Z",
+    "soft_xray_flux": 4.0,
+    "hard_xray_flux": 0.0,
+    "soft_bg_subtracted": 1.0,
+    "hard_bg_subtracted": 0.0,
+    "source": "aditya"
+  },
+  {
+    "timestamp": "2026-06-20T17:49:03Z",
+    "soft_xray_flux": 6.0,
+    "hard_xray_flux": 0.0,
+    "soft_bg_subtracted": 3.0,
+    "hard_bg_subtracted": 0.0,
+    "source": "aditya"
+  },
+  {
+    "timestamp": "2026-06-20T17:50:28Z",
+    "soft_xray_flux": 3.0,
+    "hard_xray_flux": 0.0,
+    "soft_bg_subtracted": 0.0,
+    "hard_bg_subtracted": 0.0,
+    "source": "aditya"
+  },
+  {
+    "timestamp": "2026-06-20T17:51:53Z",
+    "soft_xray_flux": 11.0,
+    "hard_xray_flux": 0.0,
+    "soft_bg_subtracted": 8.0,
+    "hard_bg_subtracted": 0.0,
+    "source": "aditya"
+  },
+  {
+    "timestamp": "2026-06-20T17:53:18Z",
+    "soft_xray_flux": 6.0,
+    "hard_xray_flux": 0.0,
+    "soft_bg_subtracted": 3.0,
+    "hard_bg_subtracted": 0.0,
+    "source": "aditya"
+  },
+  {
+    "timestamp": "2026-06-20T17:54:43Z",
+    "soft_xray_flux": 10.0,
+    "hard_xray_flux": 0.0,
+    "soft_bg_subtracted": 7.0,
+    "hard_bg_subtracted": 0.0,
+    "source": "aditya"
+  },
+  {
+    "timestamp": "2026-06-20T17:56:08Z",
+    "soft_xray_flux": 5.0,
+    "hard_xray_flux": 0.0,
+    "soft_bg_subtracted": 2.0,
+    "hard_bg_subtracted": 0.0,
+    "source": "aditya"
+  },
+  {
+    "timestamp": "2026-06-20T17:57:33Z",
+    "soft_xray_flux": 9.0,
+    "hard_xray_flux": 2.0,
+    "soft_bg_subtracted": 6.0,
+    "hard_bg_subtracted": 2.0,
+    "source": "aditya"
+  },
+  {
+    "timestamp": "2026-06-20T17:58:58Z",
+    "soft_xray_flux": 5.0,
+    "hard_xray_flux": 0.0,
+    "soft_bg_subtracted": 2.0,
+    "hard_bg_subtracted": 0.0,
+    "source": "aditya"
+  },
+  {
+    "timestamp": "2026-06-20T18:00:23Z",
+    "soft_xray_flux": 4.0,
+    "hard_xray_flux": 0.0,
+    "soft_bg_subtracted": 1.0,
+    "hard_bg_subtracted": 0.0,
+    "source": "aditya"
+  },
+  {
+    "timestamp": "2026-06-20T18:01:48Z",
+    "soft_xray_flux": 5.0,
+    "hard_xray_flux": 0.0,
+    "soft_bg_subtracted": 2.0,
+    "hard_bg_subtracted": 0.0,
+    "source": "aditya"
+  },
+  {
+    "timestamp": "2026-06-20T18:03:13Z",
+    "soft_xray_flux": 8.0,
+    "hard_xray_flux": 0.0,
+    "soft_bg_subtracted": 5.0,
+    "hard_bg_subtracted": 0.0,
+    "source": "aditya"
+  },
+  {
+    "timestamp": "2026-06-20T18:04:38Z",
+    "soft_xray_flux": 4.0,
+    "hard_xray_flux": 1.0,
+    "soft_bg_subtracted": 1.0,
+    "hard_bg_subtracted": 1.0,
+    "source": "aditya"
+  },
+  {
+    "timestamp": "2026-06-20T18:06:03Z",
+    "soft_xray_flux": 6.0,
+    "hard_xray_flux": 0.0,
+    "soft_bg_subtracted": 3.0,
+    "hard_bg_subtracted": 0.0,
+    "source": "aditya"
+  },
+  {
+    "timestamp": "2026-06-20T18:07:28Z",
+    "soft_xray_flux": 5.0,
+    "hard_xray_flux": 0.0,
+    "soft_bg_subtracted": 2.0,
+    "hard_bg_subtracted": 0.0,
+    "source": "aditya"
+  },
+  {
+    "timestamp": "2026-06-20T18:08:53Z",
+    "soft_xray_flux": 3.0,
+    "hard_xray_flux": 0.0,
+    "soft_bg_subtracted": 0.0,
+    "hard_bg_subtracted": 0.0,
+    "source": "aditya"
+  },
+  {
+    "timestamp": "2026-06-20T18:10:18Z",
+    "soft_xray_flux": 1.0,
+    "hard_xray_flux": 0.0,
+    "soft_bg_subtracted": 0.0,
+    "hard_bg_subtracted": 0.0,
+    "source": "aditya"
+  },
+  {
+    "timestamp": "2026-06-20T18:11:43Z",
+    "soft_xray_flux": 8.0,
+    "hard_xray_flux": 0.0,
+    "soft_bg_subtracted": 5.0,
+    "hard_bg_subtracted": 0.0,
+    "source": "aditya"
+  },
+  {
+    "timestamp": "2026-06-20T18:13:08Z",
+    "soft_xray_flux": 5.0,
+    "hard_xray_flux": 0.0,
+    "soft_bg_subtracted": 2.0,
+    "hard_bg_subtracted": 0.0,
+    "source": "aditya"
+  },
+  {
+    "timestamp": "2026-06-20T18:14:33Z",
+    "soft_xray_flux": 8.0,
+    "hard_xray_flux": 0.0,
+    "soft_bg_subtracted": 5.0,
+    "hard_bg_subtracted": 0.0,
+    "source": "aditya"
+  },
+  {
+    "timestamp": "2026-06-20T18:15:58Z",
+    "soft_xray_flux": 11.0,
+    "hard_xray_flux": 0.0,
+    "soft_bg_subtracted": 8.0,
+    "hard_bg_subtracted": 0.0,
+    "source": "aditya"
+  },
+  {
+    "timestamp": "2026-06-20T18:17:23Z",
+    "soft_xray_flux": 7.0,
+    "hard_xray_flux": 2.0,
+    "soft_bg_subtracted": 4.0,
+    "hard_bg_subtracted": 2.0,
+    "source": "aditya"
+  },
+  {
+    "timestamp": "2026-06-20T18:18:48Z",
+    "soft_xray_flux": 6.0,
+    "hard_xray_flux": 0.0,
+    "soft_bg_subtracted": 3.0,
+    "hard_bg_subtracted": 0.0,
+    "source": "aditya"
+  },
+  {
+    "timestamp": "2026-06-20T18:20:13Z",
+    "soft_xray_flux": 7.0,
+    "hard_xray_flux": 0.0,
+    "soft_bg_subtracted": 4.0,
+    "hard_bg_subtracted": 0.0,
+    "source": "aditya"
+  },
+  {
+    "timestamp": "2026-06-20T18:21:38Z",
+    "soft_xray_flux": 7.0,
+    "hard_xray_flux": 2.0,
+    "soft_bg_subtracted": 4.0,
+    "hard_bg_subtracted": 2.0,
+    "source": "aditya"
+  },
+  {
+    "timestamp": "2026-06-20T18:23:03Z",
+    "soft_xray_flux": 7.0,
+    "hard_xray_flux": 1.0,
+    "soft_bg_subtracted": 4.0,
+    "hard_bg_subtracted": 1.0,
+    "source": "aditya"
+  },
+  {
+    "timestamp": "2026-06-20T18:24:28Z",
+    "soft_xray_flux": 3.0,
+    "hard_xray_flux": 0.0,
+    "soft_bg_subtracted": 0.0,
+    "hard_bg_subtracted": 0.0,
+    "source": "aditya"
+  },
+  {
+    "timestamp": "2026-06-20T18:25:53Z",
+    "soft_xray_flux": 7.0,
+    "hard_xray_flux": 1.0,
+    "soft_bg_subtracted": 4.0,
+    "hard_bg_subtracted": 1.0,
+    "source": "aditya"
+  },
+  {
+    "timestamp": "2026-06-20T18:27:18Z",
+    "soft_xray_flux": 4.0,
+    "hard_xray_flux": 0.0,
+    "soft_bg_subtracted": 1.0,
+    "hard_bg_subtracted": 0.0,
+    "source": "aditya"
+  },
+  {
+    "timestamp": "2026-06-20T18:28:43Z",
+    "soft_xray_flux": 5.0,
+    "hard_xray_flux": 0.0,
+    "soft_bg_subtracted": 2.0,
+    "hard_bg_subtracted": 0.0,
+    "source": "aditya"
+  },
+  {
+    "timestamp": "2026-06-20T18:30:08Z",
+    "soft_xray_flux": 3.0,
+    "hard_xray_flux": 2.0,
+    "soft_bg_subtracted": 0.0,
+    "hard_bg_subtracted": 2.0,
+    "source": "aditya"
+  },
+  {
+    "timestamp": "2026-06-20T18:31:33Z",
+    "soft_xray_flux": 6.0,
+    "hard_xray_flux": 0.0,
+    "soft_bg_subtracted": 3.0,
+    "hard_bg_subtracted": 0.0,
+    "source": "aditya"
+  },
+  {
+    "timestamp": "2026-06-20T18:32:58Z",
+    "soft_xray_flux": 6.0,
+    "hard_xray_flux": 0.0,
+    "soft_bg_subtracted": 3.0,
+    "hard_bg_subtracted": 0.0,
+    "source": "aditya"
+  },
+  {
+    "timestamp": "2026-06-20T18:34:23Z",
+    "soft_xray_flux": 10.0,
+    "hard_xray_flux": 0.0,
+    "soft_bg_subtracted": 7.0,
+    "hard_bg_subtracted": 0.0,
+    "source": "aditya"
+  },
+  {
+    "timestamp": "2026-06-20T18:35:48Z",
+    "soft_xray_flux": 3.0,
+    "hard_xray_flux": 0.0,
+    "soft_bg_subtracted": 0.0,
+    "hard_bg_subtracted": 0.0,
+    "source": "aditya"
+  },
+  {
+    "timestamp": "2026-06-20T18:37:13Z",
+    "soft_xray_flux": 6.0,
+    "hard_xray_flux": 0.0,
+    "soft_bg_subtracted": 3.0,
+    "hard_bg_subtracted": 0.0,
+    "source": "aditya"
+  },
+  {
+    "timestamp": "2026-06-20T18:38:38Z",
+    "soft_xray_flux": 4.0,
+    "hard_xray_flux": 0.0,
+    "soft_bg_subtracted": 1.0,
+    "hard_bg_subtracted": 0.0,
+    "source": "aditya"
+  },
+  {
+    "timestamp": "2026-06-20T18:40:03Z",
+    "soft_xray_flux": 0.0,
+    "hard_xray_flux": 0.0,
+    "soft_bg_subtracted": 0.0,
+    "hard_bg_subtracted": 0.0,
+    "source": "aditya"
+  },
+  {
+    "timestamp": "2026-06-20T18:41:28Z",
+    "soft_xray_flux": 3.0,
+    "hard_xray_flux": 0.0,
+    "soft_bg_subtracted": 0.0,
+    "hard_bg_subtracted": 0.0,
+    "source": "aditya"
+  },
+  {
+    "timestamp": "2026-06-20T18:42:53Z",
+    "soft_xray_flux": 17.0,
+    "hard_xray_flux": 0.0,
+    "soft_bg_subtracted": 14.0,
+    "hard_bg_subtracted": 0.0,
+    "source": "aditya"
+  },
+  {
+    "timestamp": "2026-06-20T18:44:18Z",
+    "soft_xray_flux": 10.0,
+    "hard_xray_flux": 0.0,
+    "soft_bg_subtracted": 7.0,
+    "hard_bg_subtracted": 0.0,
+    "source": "aditya"
+  },
+  {
+    "timestamp": "2026-06-20T18:45:43Z",
+    "soft_xray_flux": 10.0,
+    "hard_xray_flux": 0.0,
+    "soft_bg_subtracted": 7.0,
+    "hard_bg_subtracted": 0.0,
+    "source": "aditya"
+  },
+  {
+    "timestamp": "2026-06-20T18:47:08Z",
+    "soft_xray_flux": 6.0,
+    "hard_xray_flux": 4.0,
+    "soft_bg_subtracted": 3.0,
+    "hard_bg_subtracted": 4.0,
+    "source": "aditya"
+  },
+  {
+    "timestamp": "2026-06-20T18:48:33Z",
+    "soft_xray_flux": 4.0,
+    "hard_xray_flux": 0.0,
+    "soft_bg_subtracted": 1.0,
+    "hard_bg_subtracted": 0.0,
+    "source": "aditya"
+  },
+  {
+    "timestamp": "2026-06-20T18:49:58Z",
+    "soft_xray_flux": 6.0,
+    "hard_xray_flux": 0.0,
+    "soft_bg_subtracted": 3.0,
+    "hard_bg_subtracted": 0.0,
+    "source": "aditya"
+  },
+  {
+    "timestamp": "2026-06-20T18:51:23Z",
+    "soft_xray_flux": 6.0,
+    "hard_xray_flux": 0.0,
+    "soft_bg_subtracted": 3.0,
+    "hard_bg_subtracted": 0.0,
+    "source": "aditya"
+  },
+  {
+    "timestamp": "2026-06-20T18:52:48Z",
+    "soft_xray_flux": 3.0,
+    "hard_xray_flux": 0.0,
+    "soft_bg_subtracted": 0.0,
+    "hard_bg_subtracted": 0.0,
+    "source": "aditya"
+  },
+  {
+    "timestamp": "2026-06-20T18:54:13Z",
+    "soft_xray_flux": 7.0,
+    "hard_xray_flux": 0.0,
+    "soft_bg_subtracted": 4.0,
+    "hard_bg_subtracted": 0.0,
+    "source": "aditya"
+  },
+  {
+    "timestamp": "2026-06-20T18:55:38Z",
+    "soft_xray_flux": 7.0,
+    "hard_xray_flux": 0.0,
+    "soft_bg_subtracted": 4.0,
+    "hard_bg_subtracted": 0.0,
+    "source": "aditya"
+  },
+  {
+    "timestamp": "2026-06-20T18:57:03Z",
+    "soft_xray_flux": 5.0,
+    "hard_xray_flux": 0.0,
+    "soft_bg_subtracted": 2.0,
+    "hard_bg_subtracted": 0.0,
+    "source": "aditya"
+  },
+  {
+    "timestamp": "2026-06-20T18:58:28Z",
+    "soft_xray_flux": 4.0,
+    "hard_xray_flux": 0.0,
+    "soft_bg_subtracted": 1.0,
+    "hard_bg_subtracted": 0.0,
+    "source": "aditya"
+  },
+  {
+    "timestamp": "2026-06-20T18:59:53Z",
+    "soft_xray_flux": 5.0,
+    "hard_xray_flux": 0.0,
+    "soft_bg_subtracted": 2.0,
+    "hard_bg_subtracted": 0.0,
+    "source": "aditya"
+  },
+  {
+    "timestamp": "2026-06-20T19:01:18Z",
+    "soft_xray_flux": 5.0,
+    "hard_xray_flux": 1.0,
+    "soft_bg_subtracted": 2.0,
+    "hard_bg_subtracted": 1.0,
+    "source": "aditya"
+  },
+  {
+    "timestamp": "2026-06-20T19:02:43Z",
+    "soft_xray_flux": 3.0,
+    "hard_xray_flux": 0.0,
+    "soft_bg_subtracted": 0.0,
+    "hard_bg_subtracted": 0.0,
+    "source": "aditya"
+  },
+  {
+    "timestamp": "2026-06-20T19:04:08Z",
+    "soft_xray_flux": 8.0,
+    "hard_xray_flux": 0.0,
+    "soft_bg_subtracted": 5.0,
+    "hard_bg_subtracted": 0.0,
+    "source": "aditya"
+  },
+  {
+    "timestamp": "2026-06-20T19:05:33Z",
+    "soft_xray_flux": 4.0,
+    "hard_xray_flux": 0.0,
+    "soft_bg_subtracted": 1.0,
+    "hard_bg_subtracted": 0.0,
+    "source": "aditya"
+  },
+  {
+    "timestamp": "2026-06-20T19:06:58Z",
+    "soft_xray_flux": 9.0,
+    "hard_xray_flux": 0.0,
+    "soft_bg_subtracted": 6.0,
+    "hard_bg_subtracted": 0.0,
+    "source": "aditya"
+  },
+  {
+    "timestamp": "2026-06-20T19:08:23Z",
+    "soft_xray_flux": 8.0,
+    "hard_xray_flux": 0.0,
+    "soft_bg_subtracted": 5.0,
+    "hard_bg_subtracted": 0.0,
+    "source": "aditya"
+  },
+  {
+    "timestamp": "2026-06-20T19:09:48Z",
+    "soft_xray_flux": 6.0,
+    "hard_xray_flux": 0.0,
+    "soft_bg_subtracted": 3.0,
+    "hard_bg_subtracted": 0.0,
+    "source": "aditya"
+  },
+  {
+    "timestamp": "2026-06-20T19:11:13Z",
+    "soft_xray_flux": 5.0,
+    "hard_xray_flux": 0.0,
+    "soft_bg_subtracted": 2.0,
+    "hard_bg_subtracted": 0.0,
+    "source": "aditya"
+  },
+  {
+    "timestamp": "2026-06-20T19:12:38Z",
+    "soft_xray_flux": 6.0,
+    "hard_xray_flux": 0.0,
+    "soft_bg_subtracted": 3.0,
+    "hard_bg_subtracted": 0.0,
+    "source": "aditya"
+  },
+  {
+    "timestamp": "2026-06-20T19:14:03Z",
+    "soft_xray_flux": 9.0,
+    "hard_xray_flux": 0.0,
+    "soft_bg_subtracted": 6.0,
+    "hard_bg_subtracted": 0.0,
+    "source": "aditya"
+  },
+  {
+    "timestamp": "2026-06-20T19:15:28Z",
+    "soft_xray_flux": 9.0,
+    "hard_xray_flux": 0.0,
+    "soft_bg_subtracted": 6.0,
+    "hard_bg_subtracted": 0.0,
+    "source": "aditya"
+  },
+  {
+    "timestamp": "2026-06-20T19:16:53Z",
+    "soft_xray_flux": 4.0,
+    "hard_xray_flux": 0.0,
+    "soft_bg_subtracted": 1.0,
+    "hard_bg_subtracted": 0.0,
+    "source": "aditya"
+  },
+  {
+    "timestamp": "2026-06-20T19:18:18Z",
+    "soft_xray_flux": 4.0,
+    "hard_xray_flux": 0.0,
+    "soft_bg_subtracted": 1.0,
+    "hard_bg_subtracted": 0.0,
+    "source": "aditya"
+  },
+  {
+    "timestamp": "2026-06-20T19:19:43Z",
+    "soft_xray_flux": 4.0,
+    "hard_xray_flux": 0.0,
+    "soft_bg_subtracted": 1.0,
+    "hard_bg_subtracted": 0.0,
+    "source": "aditya"
+  },
+  {
+    "timestamp": "2026-06-20T19:21:08Z",
+    "soft_xray_flux": 5.0,
+    "hard_xray_flux": 0.0,
+    "soft_bg_subtracted": 2.0,
+    "hard_bg_subtracted": 0.0,
+    "source": "aditya"
+  },
+  {
+    "timestamp": "2026-06-20T19:22:33Z",
+    "soft_xray_flux": 4.0,
+    "hard_xray_flux": 0.0,
+    "soft_bg_subtracted": 1.0,
+    "hard_bg_subtracted": 0.0,
+    "source": "aditya"
+  },
+  {
+    "timestamp": "2026-06-20T19:23:58Z",
+    "soft_xray_flux": 6.0,
+    "hard_xray_flux": 0.0,
+    "soft_bg_subtracted": 3.0,
+    "hard_bg_subtracted": 0.0,
+    "source": "aditya"
+  },
+  {
+    "timestamp": "2026-06-20T19:25:23Z",
+    "soft_xray_flux": 3.0,
+    "hard_xray_flux": 0.0,
+    "soft_bg_subtracted": 0.0,
+    "hard_bg_subtracted": 0.0,
+    "source": "aditya"
+  },
+  {
+    "timestamp": "2026-06-20T19:26:48Z",
+    "soft_xray_flux": 9.0,
+    "hard_xray_flux": 0.0,
+    "soft_bg_subtracted": 6.0,
+    "hard_bg_subtracted": 0.0,
+    "source": "aditya"
+  },
+  {
+    "timestamp": "2026-06-20T19:28:13Z",
+    "soft_xray_flux": 2.0,
+    "hard_xray_flux": 0.0,
+    "soft_bg_subtracted": 0.0,
+    "hard_bg_subtracted": 0.0,
+    "source": "aditya"
+  },
+  {
+    "timestamp": "2026-06-20T19:29:38Z",
+    "soft_xray_flux": 8.0,
+    "hard_xray_flux": 0.0,
+    "soft_bg_subtracted": 5.0,
+    "hard_bg_subtracted": 0.0,
+    "source": "aditya"
+  },
+  {
+    "timestamp": "2026-06-20T19:31:03Z",
+    "soft_xray_flux": 6.0,
+    "hard_xray_flux": 0.0,
+    "soft_bg_subtracted": 3.0,
+    "hard_bg_subtracted": 0.0,
+    "source": "aditya"
+  },
+  {
+    "timestamp": "2026-06-20T19:32:28Z",
+    "soft_xray_flux": 7.0,
+    "hard_xray_flux": 0.0,
+    "soft_bg_subtracted": 4.0,
+    "hard_bg_subtracted": 0.0,
+    "source": "aditya"
+  },
+  {
+    "timestamp": "2026-06-20T19:33:53Z",
+    "soft_xray_flux": 5.0,
+    "hard_xray_flux": 0.0,
+    "soft_bg_subtracted": 2.0,
+    "hard_bg_subtracted": 0.0,
+    "source": "aditya"
+  },
+  {
+    "timestamp": "2026-06-20T19:35:18Z",
+    "soft_xray_flux": 5.0,
+    "hard_xray_flux": 0.0,
+    "soft_bg_subtracted": 2.0,
+    "hard_bg_subtracted": 0.0,
+    "source": "aditya"
+  },
+  {
+    "timestamp": "2026-06-20T19:36:43Z",
+    "soft_xray_flux": 4.0,
+    "hard_xray_flux": 0.0,
+    "soft_bg_subtracted": 1.0,
+    "hard_bg_subtracted": 0.0,
+    "source": "aditya"
+  },
+  {
+    "timestamp": "2026-06-20T19:38:08Z",
+    "soft_xray_flux": 5.0,
+    "hard_xray_flux": 0.0,
+    "soft_bg_subtracted": 2.0,
+    "hard_bg_subtracted": 0.0,
+    "source": "aditya"
+  },
+  {
+    "timestamp": "2026-06-20T19:39:33Z",
+    "soft_xray_flux": 1.0,
+    "hard_xray_flux": 0.0,
+    "soft_bg_subtracted": 0.0,
+    "hard_bg_subtracted": 0.0,
+    "source": "aditya"
+  },
+  {
+    "timestamp": "2026-06-20T19:40:58Z",
+    "soft_xray_flux": 2.0,
+    "hard_xray_flux": 0.0,
+    "soft_bg_subtracted": 0.0,
+    "hard_bg_subtracted": 0.0,
+    "source": "aditya"
+  },
+  {
+    "timestamp": "2026-06-20T19:42:23Z",
+    "soft_xray_flux": 2.0,
+    "hard_xray_flux": 0.0,
+    "soft_bg_subtracted": 0.0,
+    "hard_bg_subtracted": 0.0,
+    "source": "aditya"
+  },
+  {
+    "timestamp": "2026-06-20T19:43:48Z",
+    "soft_xray_flux": 3.0,
+    "hard_xray_flux": 0.0,
+    "soft_bg_subtracted": 0.0,
+    "hard_bg_subtracted": 0.0,
+    "source": "aditya"
+  },
+  {
+    "timestamp": "2026-06-20T19:45:13Z",
+    "soft_xray_flux": 8.0,
+    "hard_xray_flux": 0.0,
+    "soft_bg_subtracted": 5.0,
+    "hard_bg_subtracted": 0.0,
+    "source": "aditya"
+  },
+  {
+    "timestamp": "2026-06-20T19:46:38Z",
+    "soft_xray_flux": 6.0,
+    "hard_xray_flux": 0.0,
+    "soft_bg_subtracted": 3.0,
+    "hard_bg_subtracted": 0.0,
+    "source": "aditya"
+  },
+  {
+    "timestamp": "2026-06-20T19:48:03Z",
+    "soft_xray_flux": 4.0,
+    "hard_xray_flux": 2.0,
+    "soft_bg_subtracted": 1.0,
+    "hard_bg_subtracted": 2.0,
+    "source": "aditya"
+  },
+  {
+    "timestamp": "2026-06-20T19:49:28Z",
+    "soft_xray_flux": 10.0,
+    "hard_xray_flux": 3.0,
+    "soft_bg_subtracted": 7.0,
+    "hard_bg_subtracted": 3.0,
+    "source": "aditya"
+  },
+  {
+    "timestamp": "2026-06-20T19:50:53Z",
+    "soft_xray_flux": 6.0,
+    "hard_xray_flux": 0.0,
+    "soft_bg_subtracted": 3.0,
+    "hard_bg_subtracted": 0.0,
+    "source": "aditya"
+  },
+  {
+    "timestamp": "2026-06-20T19:52:18Z",
+    "soft_xray_flux": 6.0,
+    "hard_xray_flux": 0.0,
+    "soft_bg_subtracted": 3.0,
+    "hard_bg_subtracted": 0.0,
+    "source": "aditya"
+  },
+  {
+    "timestamp": "2026-06-20T19:53:43Z",
+    "soft_xray_flux": 5.0,
+    "hard_xray_flux": 0.0,
+    "soft_bg_subtracted": 2.0,
+    "hard_bg_subtracted": 0.0,
+    "source": "aditya"
+  },
+  {
+    "timestamp": "2026-06-20T19:55:08Z",
+    "soft_xray_flux": 6.0,
+    "hard_xray_flux": 0.0,
+    "soft_bg_subtracted": 3.0,
+    "hard_bg_subtracted": 0.0,
+    "source": "aditya"
+  },
+  {
+    "timestamp": "2026-06-20T19:56:33Z",
+    "soft_xray_flux": 7.0,
+    "hard_xray_flux": 0.0,
+    "soft_bg_subtracted": 4.0,
+    "hard_bg_subtracted": 0.0,
+    "source": "aditya"
+  },
+  {
+    "timestamp": "2026-06-20T19:57:58Z",
+    "soft_xray_flux": 5.0,
+    "hard_xray_flux": 2.0,
+    "soft_bg_subtracted": 2.0,
+    "hard_bg_subtracted": 2.0,
+    "source": "aditya"
+  },
+  {
+    "timestamp": "2026-06-20T19:59:23Z",
+    "soft_xray_flux": 6.0,
+    "hard_xray_flux": 0.0,
+    "soft_bg_subtracted": 3.0,
+    "hard_bg_subtracted": 0.0,
+    "source": "aditya"
+  },
+  {
+    "timestamp": "2026-06-20T20:00:48Z",
+    "soft_xray_flux": 4.0,
+    "hard_xray_flux": 0.0,
+    "soft_bg_subtracted": 1.0,
+    "hard_bg_subtracted": 0.0,
+    "source": "aditya"
+  },
+  {
+    "timestamp": "2026-06-20T20:02:13Z",
+    "soft_xray_flux": 3.0,
+    "hard_xray_flux": 0.0,
+    "soft_bg_subtracted": 0.0,
+    "hard_bg_subtracted": 0.0,
+    "source": "aditya"
+  },
+  {
+    "timestamp": "2026-06-20T20:03:38Z",
+    "soft_xray_flux": 5.0,
+    "hard_xray_flux": 0.0,
+    "soft_bg_subtracted": 2.0,
+    "hard_bg_subtracted": 0.0,
+    "source": "aditya"
+  },
+  {
+    "timestamp": "2026-06-20T20:05:03Z",
+    "soft_xray_flux": 5.0,
+    "hard_xray_flux": 0.0,
+    "soft_bg_subtracted": 2.0,
+    "hard_bg_subtracted": 0.0,
+    "source": "aditya"
+  },
+  {
+    "timestamp": "2026-06-20T20:06:28Z",
+    "soft_xray_flux": 5.0,
+    "hard_xray_flux": 0.0,
+    "soft_bg_subtracted": 2.0,
+    "hard_bg_subtracted": 0.0,
+    "source": "aditya"
+  },
+  {
+    "timestamp": "2026-06-20T20:07:53Z",
+    "soft_xray_flux": 7.0,
+    "hard_xray_flux": 0.0,
+    "soft_bg_subtracted": 4.0,
+    "hard_bg_subtracted": 0.0,
+    "source": "aditya"
+  },
+  {
+    "timestamp": "2026-06-20T20:09:18Z",
+    "soft_xray_flux": 2.0,
+    "hard_xray_flux": 0.0,
+    "soft_bg_subtracted": 0.0,
+    "hard_bg_subtracted": 0.0,
+    "source": "aditya"
+  },
+  {
+    "timestamp": "2026-06-20T20:10:43Z",
+    "soft_xray_flux": 8.0,
+    "hard_xray_flux": 0.0,
+    "soft_bg_subtracted": 5.0,
+    "hard_bg_subtracted": 0.0,
+    "source": "aditya"
+  },
+  {
+    "timestamp": "2026-06-20T20:12:08Z",
+    "soft_xray_flux": 6.0,
+    "hard_xray_flux": 0.0,
+    "soft_bg_subtracted": 3.0,
+    "hard_bg_subtracted": 0.0,
+    "source": "aditya"
+  },
+  {
+    "timestamp": "2026-06-20T20:13:33Z",
+    "soft_xray_flux": 11.0,
+    "hard_xray_flux": 0.0,
+    "soft_bg_subtracted": 8.0,
+    "hard_bg_subtracted": 0.0,
+    "source": "aditya"
+  },
+  {
+    "timestamp": "2026-06-20T20:14:58Z",
+    "soft_xray_flux": 8.0,
+    "hard_xray_flux": 0.0,
+    "soft_bg_subtracted": 5.0,
+    "hard_bg_subtracted": 0.0,
+    "source": "aditya"
+  },
+  {
+    "timestamp": "2026-06-20T20:16:23Z",
+    "soft_xray_flux": 9.0,
+    "hard_xray_flux": 0.0,
+    "soft_bg_subtracted": 6.0,
+    "hard_bg_subtracted": 0.0,
+    "source": "aditya"
+  },
+  {
+    "timestamp": "2026-06-20T20:17:48Z",
+    "soft_xray_flux": 7.0,
+    "hard_xray_flux": 0.0,
+    "soft_bg_subtracted": 4.0,
+    "hard_bg_subtracted": 0.0,
+    "source": "aditya"
+  },
+  {
+    "timestamp": "2026-06-20T20:19:13Z",
+    "soft_xray_flux": 10.0,
+    "hard_xray_flux": 0.0,
+    "soft_bg_subtracted": 7.0,
+    "hard_bg_subtracted": 0.0,
+    "source": "aditya"
+  },
+  {
+    "timestamp": "2026-06-20T20:20:38Z",
+    "soft_xray_flux": 8.0,
+    "hard_xray_flux": 0.0,
+    "soft_bg_subtracted": 5.0,
+    "hard_bg_subtracted": 0.0,
+    "source": "aditya"
+  },
+  {
+    "timestamp": "2026-06-20T20:22:03Z",
+    "soft_xray_flux": 12.0,
+    "hard_xray_flux": 0.0,
+    "soft_bg_subtracted": 9.0,
+    "hard_bg_subtracted": 0.0,
+    "source": "aditya"
+  },
+  {
+    "timestamp": "2026-06-20T20:23:28Z",
+    "soft_xray_flux": 11.0,
+    "hard_xray_flux": 0.0,
+    "soft_bg_subtracted": 8.0,
+    "hard_bg_subtracted": 0.0,
+    "source": "aditya"
+  },
+  {
+    "timestamp": "2026-06-20T20:24:53Z",
+    "soft_xray_flux": 8.0,
+    "hard_xray_flux": 0.0,
+    "soft_bg_subtracted": 5.0,
+    "hard_bg_subtracted": 0.0,
+    "source": "aditya"
+  },
+  {
+    "timestamp": "2026-06-20T20:26:18Z",
+    "soft_xray_flux": 5.0,
+    "hard_xray_flux": 0.0,
+    "soft_bg_subtracted": 2.0,
+    "hard_bg_subtracted": 0.0,
+    "source": "aditya"
+  },
+  {
+    "timestamp": "2026-06-20T20:27:43Z",
+    "soft_xray_flux": 10.0,
+    "hard_xray_flux": 0.0,
+    "soft_bg_subtracted": 7.0,
+    "hard_bg_subtracted": 0.0,
+    "source": "aditya"
+  },
+  {
+    "timestamp": "2026-06-20T20:29:08Z",
+    "soft_xray_flux": 2.0,
+    "hard_xray_flux": 0.0,
+    "soft_bg_subtracted": 0.0,
+    "hard_bg_subtracted": 0.0,
+    "source": "aditya"
+  },
+  {
+    "timestamp": "2026-06-20T20:30:33Z",
+    "soft_xray_flux": 9.0,
+    "hard_xray_flux": 0.0,
+    "soft_bg_subtracted": 6.0,
+    "hard_bg_subtracted": 0.0,
+    "source": "aditya"
+  },
+  {
+    "timestamp": "2026-06-20T20:31:58Z",
+    "soft_xray_flux": 9.0,
+    "hard_xray_flux": 0.0,
+    "soft_bg_subtracted": 6.0,
+    "hard_bg_subtracted": 0.0,
+    "source": "aditya"
+  },
+  {
+    "timestamp": "2026-06-20T20:33:23Z",
+    "soft_xray_flux": 8.0,
+    "hard_xray_flux": 0.0,
+    "soft_bg_subtracted": 5.0,
+    "hard_bg_subtracted": 0.0,
+    "source": "aditya"
+  },
+  {
+    "timestamp": "2026-06-20T20:34:48Z",
+    "soft_xray_flux": 12.0,
+    "hard_xray_flux": 5.0,
+    "soft_bg_subtracted": 9.0,
+    "hard_bg_subtracted": 5.0,
+    "source": "aditya"
+  },
+  {
+    "timestamp": "2026-06-20T20:36:13Z",
+    "soft_xray_flux": 5.0,
+    "hard_xray_flux": 0.0,
+    "soft_bg_subtracted": 2.0,
+    "hard_bg_subtracted": 0.0,
+    "source": "aditya"
+  },
+  {
+    "timestamp": "2026-06-20T20:37:38Z",
+    "soft_xray_flux": 4.0,
+    "hard_xray_flux": 0.0,
+    "soft_bg_subtracted": 1.0,
+    "hard_bg_subtracted": 0.0,
+    "source": "aditya"
+  },
+  {
+    "timestamp": "2026-06-20T20:39:03Z",
+    "soft_xray_flux": 6.0,
+    "hard_xray_flux": 0.0,
+    "soft_bg_subtracted": 3.0,
+    "hard_bg_subtracted": 0.0,
+    "source": "aditya"
+  },
+  {
+    "timestamp": "2026-06-20T20:40:28Z",
+    "soft_xray_flux": 7.0,
+    "hard_xray_flux": 0.0,
+    "soft_bg_subtracted": 4.0,
+    "hard_bg_subtracted": 0.0,
+    "source": "aditya"
+  },
+  {
+    "timestamp": "2026-06-20T20:41:53Z",
+    "soft_xray_flux": 5.0,
+    "hard_xray_flux": 0.0,
+    "soft_bg_subtracted": 2.0,
+    "hard_bg_subtracted": 0.0,
+    "source": "aditya"
+  },
+  {
+    "timestamp": "2026-06-20T20:43:18Z",
+    "soft_xray_flux": 5.0,
+    "hard_xray_flux": 0.0,
+    "soft_bg_subtracted": 2.0,
+    "hard_bg_subtracted": 0.0,
+    "source": "aditya"
+  },
+  {
+    "timestamp": "2026-06-20T20:44:43Z",
+    "soft_xray_flux": 8.0,
+    "hard_xray_flux": 2.0,
+    "soft_bg_subtracted": 5.0,
+    "hard_bg_subtracted": 2.0,
+    "source": "aditya"
+  },
+  {
+    "timestamp": "2026-06-20T20:46:08Z",
+    "soft_xray_flux": 6.0,
+    "hard_xray_flux": 3.0,
+    "soft_bg_subtracted": 3.0,
+    "hard_bg_subtracted": 3.0,
+    "source": "aditya"
+  },
+  {
+    "timestamp": "2026-06-20T20:47:33Z",
+    "soft_xray_flux": 9.0,
+    "hard_xray_flux": 0.0,
+    "soft_bg_subtracted": 6.0,
+    "hard_bg_subtracted": 0.0,
+    "source": "aditya"
+  },
+  {
+    "timestamp": "2026-06-20T20:48:58Z",
+    "soft_xray_flux": 6.0,
+    "hard_xray_flux": 0.0,
+    "soft_bg_subtracted": 3.0,
+    "hard_bg_subtracted": 0.0,
+    "source": "aditya"
+  },
+  {
+    "timestamp": "2026-06-20T20:50:23Z",
+    "soft_xray_flux": 4.0,
+    "hard_xray_flux": 0.0,
+    "soft_bg_subtracted": 1.0,
+    "hard_bg_subtracted": 0.0,
+    "source": "aditya"
+  },
+  {
+    "timestamp": "2026-06-20T20:51:48Z",
+    "soft_xray_flux": 8.0,
+    "hard_xray_flux": 0.0,
+    "soft_bg_subtracted": 5.0,
+    "hard_bg_subtracted": 0.0,
+    "source": "aditya"
+  },
+  {
+    "timestamp": "2026-06-20T20:53:13Z",
+    "soft_xray_flux": 9.0,
+    "hard_xray_flux": 2.0,
+    "soft_bg_subtracted": 6.0,
+    "hard_bg_subtracted": 2.0,
+    "source": "aditya"
+  },
+  {
+    "timestamp": "2026-06-20T20:54:38Z",
+    "soft_xray_flux": 2.0,
+    "hard_xray_flux": 0.0,
+    "soft_bg_subtracted": 0.0,
+    "hard_bg_subtracted": 0.0,
+    "source": "aditya"
+  },
+  {
+    "timestamp": "2026-06-20T20:56:03Z",
+    "soft_xray_flux": 3.0,
+    "hard_xray_flux": 0.0,
+    "soft_bg_subtracted": 0.0,
+    "hard_bg_subtracted": 0.0,
+    "source": "aditya"
+  },
+  {
+    "timestamp": "2026-06-20T20:57:28Z",
+    "soft_xray_flux": 4.0,
+    "hard_xray_flux": 0.0,
+    "soft_bg_subtracted": 1.0,
+    "hard_bg_subtracted": 0.0,
+    "source": "aditya"
+  },
+  {
+    "timestamp": "2026-06-20T20:58:53Z",
+    "soft_xray_flux": 5.0,
+    "hard_xray_flux": 0.0,
+    "soft_bg_subtracted": 2.0,
+    "hard_bg_subtracted": 0.0,
+    "source": "aditya"
+  },
+  {
+    "timestamp": "2026-06-20T21:00:18Z",
+    "soft_xray_flux": 10.0,
+    "hard_xray_flux": 0.0,
+    "soft_bg_subtracted": 7.0,
+    "hard_bg_subtracted": 0.0,
+    "source": "aditya"
+  },
+  {
+    "timestamp": "2026-06-20T21:01:43Z",
+    "soft_xray_flux": 6.0,
+    "hard_xray_flux": 0.0,
+    "soft_bg_subtracted": 3.0,
+    "hard_bg_subtracted": 0.0,
+    "source": "aditya"
+  },
+  {
+    "timestamp": "2026-06-20T21:03:08Z",
+    "soft_xray_flux": 8.0,
+    "hard_xray_flux": 0.0,
+    "soft_bg_subtracted": 5.0,
+    "hard_bg_subtracted": 0.0,
+    "source": "aditya"
+  },
+  {
+    "timestamp": "2026-06-20T21:04:33Z",
+    "soft_xray_flux": 8.0,
+    "hard_xray_flux": 0.0,
+    "soft_bg_subtracted": 5.0,
+    "hard_bg_subtracted": 0.0,
+    "source": "aditya"
+  },
+  {
+    "timestamp": "2026-06-20T21:05:58Z",
+    "soft_xray_flux": 6.0,
+    "hard_xray_flux": 0.0,
+    "soft_bg_subtracted": 3.0,
+    "hard_bg_subtracted": 0.0,
+    "source": "aditya"
+  },
+  {
+    "timestamp": "2026-06-20T21:07:23Z",
+    "soft_xray_flux": 9.0,
+    "hard_xray_flux": 0.0,
+    "soft_bg_subtracted": 6.0,
+    "hard_bg_subtracted": 0.0,
+    "source": "aditya"
+  },
+  {
+    "timestamp": "2026-06-20T21:08:48Z",
+    "soft_xray_flux": 2.0,
+    "hard_xray_flux": 0.0,
+    "soft_bg_subtracted": 0.0,
+    "hard_bg_subtracted": 0.0,
+    "source": "aditya"
+  },
+  {
+    "timestamp": "2026-06-20T21:10:13Z",
+    "soft_xray_flux": 6.0,
+    "hard_xray_flux": 0.0,
+    "soft_bg_subtracted": 3.0,
+    "hard_bg_subtracted": 0.0,
+    "source": "aditya"
+  },
+  {
+    "timestamp": "2026-06-20T21:11:38Z",
+    "soft_xray_flux": 10.0,
+    "hard_xray_flux": 0.0,
+    "soft_bg_subtracted": 7.0,
+    "hard_bg_subtracted": 0.0,
+    "source": "aditya"
+  },
+  {
+    "timestamp": "2026-06-20T21:13:03Z",
+    "soft_xray_flux": 7.0,
+    "hard_xray_flux": 0.0,
+    "soft_bg_subtracted": 4.0,
+    "hard_bg_subtracted": 0.0,
+    "source": "aditya"
+  },
+  {
+    "timestamp": "2026-06-20T21:14:28Z",
+    "soft_xray_flux": 6.0,
+    "hard_xray_flux": 0.0,
+    "soft_bg_subtracted": 3.0,
+    "hard_bg_subtracted": 0.0,
+    "source": "aditya"
+  },
+  {
+    "timestamp": "2026-06-20T21:15:53Z",
+    "soft_xray_flux": 2.0,
+    "hard_xray_flux": 0.0,
+    "soft_bg_subtracted": 0.0,
+    "hard_bg_subtracted": 0.0,
+    "source": "aditya"
+  },
+  {
+    "timestamp": "2026-06-20T21:17:18Z",
+    "soft_xray_flux": 5.0,
+    "hard_xray_flux": 0.0,
+    "soft_bg_subtracted": 2.0,
+    "hard_bg_subtracted": 0.0,
+    "source": "aditya"
+  },
+  {
+    "timestamp": "2026-06-20T21:18:43Z",
+    "soft_xray_flux": 5.0,
+    "hard_xray_flux": 0.0,
+    "soft_bg_subtracted": 2.0,
+    "hard_bg_subtracted": 0.0,
+    "source": "aditya"
+  },
+  {
+    "timestamp": "2026-06-20T21:20:08Z",
+    "soft_xray_flux": 11.0,
+    "hard_xray_flux": 0.0,
+    "soft_bg_subtracted": 8.0,
+    "hard_bg_subtracted": 0.0,
+    "source": "aditya"
+  },
+  {
+    "timestamp": "2026-06-20T21:21:33Z",
+    "soft_xray_flux": 13.0,
+    "hard_xray_flux": 0.0,
+    "soft_bg_subtracted": 10.0,
+    "hard_bg_subtracted": 0.0,
+    "source": "aditya"
+  },
+  {
+    "timestamp": "2026-06-20T21:22:58Z",
+    "soft_xray_flux": 7.0,
+    "hard_xray_flux": 0.0,
+    "soft_bg_subtracted": 4.0,
+    "hard_bg_subtracted": 0.0,
+    "source": "aditya"
+  },
+  {
+    "timestamp": "2026-06-20T21:24:23Z",
+    "soft_xray_flux": 11.0,
+    "hard_xray_flux": 0.0,
+    "soft_bg_subtracted": 8.0,
+    "hard_bg_subtracted": 0.0,
+    "source": "aditya"
+  },
+  {
+    "timestamp": "2026-06-20T21:25:48Z",
+    "soft_xray_flux": 6.0,
+    "hard_xray_flux": 0.0,
+    "soft_bg_subtracted": 3.0,
+    "hard_bg_subtracted": 0.0,
+    "source": "aditya"
+  },
+  {
+    "timestamp": "2026-06-20T21:27:13Z",
+    "soft_xray_flux": 11.0,
+    "hard_xray_flux": 0.0,
+    "soft_bg_subtracted": 8.0,
+    "hard_bg_subtracted": 0.0,
+    "source": "aditya"
+  },
+  {
+    "timestamp": "2026-06-20T21:28:38Z",
+    "soft_xray_flux": 16.0,
+    "hard_xray_flux": 0.0,
+    "soft_bg_subtracted": 13.0,
+    "hard_bg_subtracted": 0.0,
+    "source": "aditya"
+  },
+  {
+    "timestamp": "2026-06-20T21:30:03Z",
+    "soft_xray_flux": 26.0,
+    "hard_xray_flux": 0.0,
+    "soft_bg_subtracted": 23.0,
+    "hard_bg_subtracted": 0.0,
+    "source": "aditya"
+  },
+  {
+    "timestamp": "2026-06-20T21:31:28Z",
+    "soft_xray_flux": 30.0,
+    "hard_xray_flux": 0.0,
+    "soft_bg_subtracted": 27.0,
+    "hard_bg_subtracted": 0.0,
+    "source": "aditya"
+  },
+  {
+    "timestamp": "2026-06-20T21:32:53Z",
+    "soft_xray_flux": 53.0,
+    "hard_xray_flux": 0.0,
+    "soft_bg_subtracted": 50.0,
+    "hard_bg_subtracted": 0.0,
+    "source": "aditya"
+  },
+  {
+    "timestamp": "2026-06-20T21:34:18Z",
+    "soft_xray_flux": 76.0,
+    "hard_xray_flux": 0.0,
+    "soft_bg_subtracted": 73.0,
+    "hard_bg_subtracted": 0.0,
+    "source": "aditya"
+  },
+  {
+    "timestamp": "2026-06-20T21:35:43Z",
+    "soft_xray_flux": 105.0,
+    "hard_xray_flux": 0.0,
+    "soft_bg_subtracted": 102.0,
+    "hard_bg_subtracted": 0.0,
+    "source": "aditya"
+  },
+  {
+    "timestamp": "2026-06-20T21:37:08Z",
+    "soft_xray_flux": 162.0,
+    "hard_xray_flux": 89.0,
+    "soft_bg_subtracted": 159.0,
+    "hard_bg_subtracted": 89.0,
+    "source": "aditya"
+  },
+  {
+    "timestamp": "2026-06-20T21:38:33Z",
+    "soft_xray_flux": 205.0,
+    "hard_xray_flux": 0.0,
+    "soft_bg_subtracted": 202.0,
+    "hard_bg_subtracted": 0.0,
+    "source": "aditya"
+  },
+  {
+    "timestamp": "2026-06-20T21:39:58Z",
+    "soft_xray_flux": 198.0,
+    "hard_xray_flux": 183.0,
+    "soft_bg_subtracted": 195.0,
+    "hard_bg_subtracted": 183.0,
+    "source": "aditya"
+  },
+  {
+    "timestamp": "2026-06-20T21:41:23Z",
+    "soft_xray_flux": 207.0,
+    "hard_xray_flux": 0.0,
+    "soft_bg_subtracted": 204.0,
+    "hard_bg_subtracted": 0.0,
+    "source": "aditya"
+  },
+  {
+    "timestamp": "2026-06-20T21:42:48Z",
+    "soft_xray_flux": 218.0,
+    "hard_xray_flux": 0.0,
+    "soft_bg_subtracted": 215.0,
+    "hard_bg_subtracted": 0.0,
+    "source": "aditya"
+  },
+  {
+    "timestamp": "2026-06-20T21:44:13Z",
+    "soft_xray_flux": 217.0,
+    "hard_xray_flux": 0.0,
+    "soft_bg_subtracted": 214.0,
+    "hard_bg_subtracted": 0.0,
+    "source": "aditya"
+  },
+  {
+    "timestamp": "2026-06-20T21:45:38Z",
+    "soft_xray_flux": 224.0,
+    "hard_xray_flux": 0.0,
+    "soft_bg_subtracted": 221.0,
+    "hard_bg_subtracted": 0.0,
+    "source": "aditya"
+  },
+  {
+    "timestamp": "2026-06-20T21:47:03Z",
+    "soft_xray_flux": 210.0,
+    "hard_xray_flux": 0.0,
+    "soft_bg_subtracted": 207.0,
+    "hard_bg_subtracted": 0.0,
+    "source": "aditya"
+  },
+  {
+    "timestamp": "2026-06-20T21:48:28Z",
+    "soft_xray_flux": 190.0,
+    "hard_xray_flux": 0.0,
+    "soft_bg_subtracted": 187.0,
+    "hard_bg_subtracted": 0.0,
+    "source": "aditya"
+  },
+  {
+    "timestamp": "2026-06-20T21:49:53Z",
+    "soft_xray_flux": 166.0,
+    "hard_xray_flux": 0.0,
+    "soft_bg_subtracted": 163.0,
+    "hard_bg_subtracted": 0.0,
+    "source": "aditya"
+  },
+  {
+    "timestamp": "2026-06-20T21:51:18Z",
+    "soft_xray_flux": 179.0,
+    "hard_xray_flux": 0.0,
+    "soft_bg_subtracted": 176.0,
+    "hard_bg_subtracted": 0.0,
+    "source": "aditya"
+  },
+  {
+    "timestamp": "2026-06-20T21:52:43Z",
+    "soft_xray_flux": 177.0,
+    "hard_xray_flux": 0.0,
+    "soft_bg_subtracted": 174.0,
+    "hard_bg_subtracted": 0.0,
+    "source": "aditya"
+  },
+  {
+    "timestamp": "2026-06-20T21:54:08Z",
+    "soft_xray_flux": 162.0,
+    "hard_xray_flux": 8.0,
+    "soft_bg_subtracted": 159.0,
+    "hard_bg_subtracted": 8.0,
+    "source": "aditya"
+  },
+  {
+    "timestamp": "2026-06-20T21:55:33Z",
+    "soft_xray_flux": 162.0,
+    "hard_xray_flux": 0.0,
+    "soft_bg_subtracted": 159.0,
+    "hard_bg_subtracted": 0.0,
+    "source": "aditya"
+  },
+  {
+    "timestamp": "2026-06-20T21:56:58Z",
+    "soft_xray_flux": 129.0,
+    "hard_xray_flux": 0.0,
+    "soft_bg_subtracted": 126.0,
+    "hard_bg_subtracted": 0.0,
+    "source": "aditya"
+  },
+  {
+    "timestamp": "2026-06-20T21:58:23Z",
+    "soft_xray_flux": 127.0,
+    "hard_xray_flux": 0.0,
+    "soft_bg_subtracted": 124.0,
+    "hard_bg_subtracted": 0.0,
+    "source": "aditya"
+  },
+  {
+    "timestamp": "2026-06-20T21:59:48Z",
+    "soft_xray_flux": 110.0,
+    "hard_xray_flux": 0.0,
+    "soft_bg_subtracted": 107.0,
+    "hard_bg_subtracted": 0.0,
+    "source": "aditya"
+  },
+  {
+    "timestamp": "2026-06-20T22:01:13Z",
+    "soft_xray_flux": 95.0,
+    "hard_xray_flux": 0.0,
+    "soft_bg_subtracted": 92.0,
+    "hard_bg_subtracted": 0.0,
+    "source": "aditya"
+  },
+  {
+    "timestamp": "2026-06-20T22:02:38Z",
+    "soft_xray_flux": 98.0,
+    "hard_xray_flux": 0.0,
+    "soft_bg_subtracted": 95.0,
+    "hard_bg_subtracted": 0.0,
+    "source": "aditya"
+  },
+  {
+    "timestamp": "2026-06-20T22:04:03Z",
+    "soft_xray_flux": 100.0,
+    "hard_xray_flux": 0.0,
+    "soft_bg_subtracted": 97.0,
+    "hard_bg_subtracted": 0.0,
+    "source": "aditya"
+  },
+  {
+    "timestamp": "2026-06-20T22:05:28Z",
+    "soft_xray_flux": 93.0,
+    "hard_xray_flux": 0.0,
+    "soft_bg_subtracted": 90.0,
+    "hard_bg_subtracted": 0.0,
+    "source": "aditya"
+  },
+  {
+    "timestamp": "2026-06-20T22:06:53Z",
+    "soft_xray_flux": 89.0,
+    "hard_xray_flux": 0.0,
+    "soft_bg_subtracted": 86.0,
+    "hard_bg_subtracted": 0.0,
+    "source": "aditya"
+  },
+  {
+    "timestamp": "2026-06-20T22:08:18Z",
+    "soft_xray_flux": 91.0,
+    "hard_xray_flux": 13.0,
+    "soft_bg_subtracted": 88.0,
+    "hard_bg_subtracted": 13.0,
+    "source": "aditya"
+  },
+  {
+    "timestamp": "2026-06-20T22:09:43Z",
+    "soft_xray_flux": 64.0,
+    "hard_xray_flux": 0.0,
+    "soft_bg_subtracted": 61.0,
+    "hard_bg_subtracted": 0.0,
+    "source": "aditya"
+  },
+  {
+    "timestamp": "2026-06-20T22:11:08Z",
+    "soft_xray_flux": 64.0,
+    "hard_xray_flux": 0.0,
+    "soft_bg_subtracted": 61.0,
+    "hard_bg_subtracted": 0.0,
+    "source": "aditya"
+  },
+  {
+    "timestamp": "2026-06-20T22:12:33Z",
+    "soft_xray_flux": 76.0,
+    "hard_xray_flux": 0.0,
+    "soft_bg_subtracted": 73.0,
+    "hard_bg_subtracted": 0.0,
+    "source": "aditya"
+  },
+  {
+    "timestamp": "2026-06-20T22:13:58Z",
+    "soft_xray_flux": 69.0,
+    "hard_xray_flux": 0.0,
+    "soft_bg_subtracted": 66.0,
+    "hard_bg_subtracted": 0.0,
+    "source": "aditya"
+  },
+  {
+    "timestamp": "2026-06-20T22:15:23Z",
+    "soft_xray_flux": 58.0,
+    "hard_xray_flux": 0.0,
+    "soft_bg_subtracted": 55.0,
+    "hard_bg_subtracted": 0.0,
+    "source": "aditya"
+  },
+  {
+    "timestamp": "2026-06-20T22:16:48Z",
+    "soft_xray_flux": 45.0,
+    "hard_xray_flux": 0.0,
+    "soft_bg_subtracted": 42.0,
+    "hard_bg_subtracted": 0.0,
+    "source": "aditya"
+  },
+  {
+    "timestamp": "2026-06-20T22:18:13Z",
+    "soft_xray_flux": 53.0,
+    "hard_xray_flux": 10.0,
+    "soft_bg_subtracted": 50.0,
+    "hard_bg_subtracted": 10.0,
+    "source": "aditya"
+  },
+  {
+    "timestamp": "2026-06-20T22:19:38Z",
+    "soft_xray_flux": 48.0,
+    "hard_xray_flux": 0.0,
+    "soft_bg_subtracted": 45.0,
+    "hard_bg_subtracted": 0.0,
+    "source": "aditya"
+  },
+  {
+    "timestamp": "2026-06-20T22:21:03Z",
+    "soft_xray_flux": 44.0,
+    "hard_xray_flux": 0.0,
+    "soft_bg_subtracted": 41.0,
+    "hard_bg_subtracted": 0.0,
+    "source": "aditya"
+  },
+  {
+    "timestamp": "2026-06-20T22:22:28Z",
+    "soft_xray_flux": 59.0,
+    "hard_xray_flux": 0.0,
+    "soft_bg_subtracted": 56.0,
+    "hard_bg_subtracted": 0.0,
+    "source": "aditya"
+  },
+  {
+    "timestamp": "2026-06-20T22:23:53Z",
+    "soft_xray_flux": 48.0,
+    "hard_xray_flux": 0.0,
+    "soft_bg_subtracted": 45.0,
+    "hard_bg_subtracted": 0.0,
+    "source": "aditya"
+  },
+  {
+    "timestamp": "2026-06-20T22:25:18Z",
+    "soft_xray_flux": 36.0,
+    "hard_xray_flux": 0.0,
+    "soft_bg_subtracted": 33.0,
+    "hard_bg_subtracted": 0.0,
+    "source": "aditya"
+  },
+  {
+    "timestamp": "2026-06-20T22:26:43Z",
+    "soft_xray_flux": 36.0,
+    "hard_xray_flux": 0.0,
+    "soft_bg_subtracted": 33.0,
+    "hard_bg_subtracted": 0.0,
+    "source": "aditya"
+  },
+  {
+    "timestamp": "2026-06-20T22:28:08Z",
+    "soft_xray_flux": 37.0,
+    "hard_xray_flux": 6.0,
+    "soft_bg_subtracted": 34.0,
+    "hard_bg_subtracted": 6.0,
+    "source": "aditya"
+  },
+  {
+    "timestamp": "2026-06-20T22:29:33Z",
+    "soft_xray_flux": 30.0,
+    "hard_xray_flux": 0.0,
+    "soft_bg_subtracted": 27.0,
+    "hard_bg_subtracted": 0.0,
+    "source": "aditya"
+  },
+  {
+    "timestamp": "2026-06-20T22:30:58Z",
+    "soft_xray_flux": 34.0,
+    "hard_xray_flux": 0.0,
+    "soft_bg_subtracted": 31.0,
+    "hard_bg_subtracted": 0.0,
+    "source": "aditya"
+  },
+  {
+    "timestamp": "2026-06-20T22:32:23Z",
+    "soft_xray_flux": 33.0,
+    "hard_xray_flux": 0.0,
+    "soft_bg_subtracted": 30.0,
+    "hard_bg_subtracted": 0.0,
+    "source": "aditya"
+  },
+  {
+    "timestamp": "2026-06-20T22:33:48Z",
+    "soft_xray_flux": 26.0,
+    "hard_xray_flux": 0.0,
+    "soft_bg_subtracted": 23.0,
+    "hard_bg_subtracted": 0.0,
+    "source": "aditya"
+  },
+  {
+    "timestamp": "2026-06-20T22:35:13Z",
+    "soft_xray_flux": 27.0,
+    "hard_xray_flux": 0.0,
+    "soft_bg_subtracted": 24.0,
+    "hard_bg_subtracted": 0.0,
+    "source": "aditya"
+  },
+  {
+    "timestamp": "2026-06-20T22:36:38Z",
+    "soft_xray_flux": 32.0,
+    "hard_xray_flux": 0.0,
+    "soft_bg_subtracted": 29.0,
+    "hard_bg_subtracted": 0.0,
+    "source": "aditya"
+  },
+  {
+    "timestamp": "2026-06-20T22:38:03Z",
+    "soft_xray_flux": 33.0,
+    "hard_xray_flux": 0.0,
+    "soft_bg_subtracted": 30.0,
+    "hard_bg_subtracted": 0.0,
+    "source": "aditya"
+  },
+  {
+    "timestamp": "2026-06-20T22:39:28Z",
+    "soft_xray_flux": 31.0,
+    "hard_xray_flux": 0.0,
+    "soft_bg_subtracted": 28.0,
+    "hard_bg_subtracted": 0.0,
+    "source": "aditya"
+  },
+  {
+    "timestamp": "2026-06-20T22:40:53Z",
+    "soft_xray_flux": 21.0,
+    "hard_xray_flux": 0.0,
+    "soft_bg_subtracted": 18.0,
+    "hard_bg_subtracted": 0.0,
+    "source": "aditya"
+  },
+  {
+    "timestamp": "2026-06-20T22:42:18Z",
+    "soft_xray_flux": 25.0,
+    "hard_xray_flux": 0.0,
+    "soft_bg_subtracted": 22.0,
+    "hard_bg_subtracted": 0.0,
+    "source": "aditya"
+  },
+  {
+    "timestamp": "2026-06-20T22:43:43Z",
+    "soft_xray_flux": 32.0,
+    "hard_xray_flux": 0.0,
+    "soft_bg_subtracted": 29.0,
+    "hard_bg_subtracted": 0.0,
+    "source": "aditya"
+  },
+  {
+    "timestamp": "2026-06-20T22:45:08Z",
+    "soft_xray_flux": 25.0,
+    "hard_xray_flux": 0.0,
+    "soft_bg_subtracted": 22.0,
+    "hard_bg_subtracted": 0.0,
+    "source": "aditya"
+  },
+  {
+    "timestamp": "2026-06-20T22:46:33Z",
+    "soft_xray_flux": 21.0,
+    "hard_xray_flux": 0.0,
+    "soft_bg_subtracted": 18.0,
+    "hard_bg_subtracted": 0.0,
+    "source": "aditya"
+  },
+  {
+    "timestamp": "2026-06-20T22:47:58Z",
+    "soft_xray_flux": 12.0,
+    "hard_xray_flux": 0.0,
+    "soft_bg_subtracted": 9.0,
+    "hard_bg_subtracted": 0.0,
+    "source": "aditya"
+  },
+  {
+    "timestamp": "2026-06-20T22:49:23Z",
+    "soft_xray_flux": 20.0,
+    "hard_xray_flux": 0.0,
+    "soft_bg_subtracted": 17.0,
+    "hard_bg_subtracted": 0.0,
+    "source": "aditya"
+  },
+  {
+    "timestamp": "2026-06-20T22:50:48Z",
+    "soft_xray_flux": 20.0,
+    "hard_xray_flux": 0.0,
+    "soft_bg_subtracted": 17.0,
+    "hard_bg_subtracted": 0.0,
+    "source": "aditya"
+  },
+  {
+    "timestamp": "2026-06-20T22:52:13Z",
+    "soft_xray_flux": 20.0,
+    "hard_xray_flux": 0.0,
+    "soft_bg_subtracted": 17.0,
+    "hard_bg_subtracted": 0.0,
+    "source": "aditya"
+  },
+  {
+    "timestamp": "2026-06-20T22:53:38Z",
+    "soft_xray_flux": 15.0,
+    "hard_xray_flux": 0.0,
+    "soft_bg_subtracted": 12.0,
+    "hard_bg_subtracted": 0.0,
+    "source": "aditya"
+  },
+  {
+    "timestamp": "2026-06-20T22:55:03Z",
+    "soft_xray_flux": 13.0,
+    "hard_xray_flux": 0.0,
+    "soft_bg_subtracted": 10.0,
+    "hard_bg_subtracted": 0.0,
+    "source": "aditya"
+  },
+  {
+    "timestamp": "2026-06-20T22:56:28Z",
+    "soft_xray_flux": 12.0,
+    "hard_xray_flux": 0.0,
+    "soft_bg_subtracted": 9.0,
+    "hard_bg_subtracted": 0.0,
+    "source": "aditya"
+  },
+  {
+    "timestamp": "2026-06-20T22:57:53Z",
+    "soft_xray_flux": 23.0,
+    "hard_xray_flux": 0.0,
+    "soft_bg_subtracted": 20.0,
+    "hard_bg_subtracted": 0.0,
+    "source": "aditya"
+  },
+  {
+    "timestamp": "2026-06-20T22:59:18Z",
+    "soft_xray_flux": 11.0,
+    "hard_xray_flux": 0.0,
+    "soft_bg_subtracted": 8.0,
+    "hard_bg_subtracted": 0.0,
+    "source": "aditya"
+  },
+  {
+    "timestamp": "2026-06-20T23:00:43Z",
+    "soft_xray_flux": 15.0,
+    "hard_xray_flux": 0.0,
+    "soft_bg_subtracted": 12.0,
+    "hard_bg_subtracted": 0.0,
+    "source": "aditya"
+  },
+  {
+    "timestamp": "2026-06-20T23:02:08Z",
+    "soft_xray_flux": 15.0,
+    "hard_xray_flux": 0.0,
+    "soft_bg_subtracted": 12.0,
+    "hard_bg_subtracted": 0.0,
+    "source": "aditya"
+  },
+  {
+    "timestamp": "2026-06-20T23:03:33Z",
+    "soft_xray_flux": 20.0,
+    "hard_xray_flux": 0.0,
+    "soft_bg_subtracted": 17.0,
+    "hard_bg_subtracted": 0.0,
+    "source": "aditya"
+  },
+  {
+    "timestamp": "2026-06-20T23:04:58Z",
+    "soft_xray_flux": 31.0,
+    "hard_xray_flux": 0.0,
+    "soft_bg_subtracted": 28.0,
+    "hard_bg_subtracted": 0.0,
+    "source": "aditya"
+  },
+  {
+    "timestamp": "2026-06-20T23:06:23Z",
+    "soft_xray_flux": 36.0,
+    "hard_xray_flux": 10.0,
+    "soft_bg_subtracted": 33.0,
+    "hard_bg_subtracted": 10.0,
+    "source": "aditya"
+  },
+  {
+    "timestamp": "2026-06-20T23:07:48Z",
+    "soft_xray_flux": 24.0,
+    "hard_xray_flux": 0.0,
+    "soft_bg_subtracted": 21.0,
+    "hard_bg_subtracted": 0.0,
+    "source": "aditya"
+  },
+  {
+    "timestamp": "2026-06-20T23:09:13Z",
+    "soft_xray_flux": 21.0,
+    "hard_xray_flux": 0.0,
+    "soft_bg_subtracted": 18.0,
+    "hard_bg_subtracted": 0.0,
+    "source": "aditya"
+  },
+  {
+    "timestamp": "2026-06-20T23:10:38Z",
+    "soft_xray_flux": 22.0,
+    "hard_xray_flux": 0.0,
+    "soft_bg_subtracted": 19.0,
+    "hard_bg_subtracted": 0.0,
+    "source": "aditya"
+  },
+  {
+    "timestamp": "2026-06-20T23:12:03Z",
+    "soft_xray_flux": 23.0,
+    "hard_xray_flux": 0.0,
+    "soft_bg_subtracted": 20.0,
+    "hard_bg_subtracted": 0.0,
+    "source": "aditya"
+  },
+  {
+    "timestamp": "2026-06-20T23:13:28Z",
+    "soft_xray_flux": 25.0,
+    "hard_xray_flux": 0.0,
+    "soft_bg_subtracted": 22.0,
+    "hard_bg_subtracted": 0.0,
+    "source": "aditya"
+  },
+  {
+    "timestamp": "2026-06-20T23:14:53Z",
+    "soft_xray_flux": 21.0,
+    "hard_xray_flux": 0.0,
+    "soft_bg_subtracted": 18.0,
+    "hard_bg_subtracted": 0.0,
+    "source": "aditya"
+  },
+  {
+    "timestamp": "2026-06-20T23:16:18Z",
+    "soft_xray_flux": 15.0,
+    "hard_xray_flux": 0.0,
+    "soft_bg_subtracted": 12.0,
+    "hard_bg_subtracted": 0.0,
+    "source": "aditya"
+  },
+  {
+    "timestamp": "2026-06-20T23:17:43Z",
+    "soft_xray_flux": 15.0,
+    "hard_xray_flux": 0.0,
+    "soft_bg_subtracted": 12.0,
+    "hard_bg_subtracted": 0.0,
+    "source": "aditya"
+  },
+  {
+    "timestamp": "2026-06-20T23:19:08Z",
+    "soft_xray_flux": 16.0,
+    "hard_xray_flux": 0.0,
+    "soft_bg_subtracted": 13.0,
+    "hard_bg_subtracted": 0.0,
+    "source": "aditya"
+  },
+  {
+    "timestamp": "2026-06-20T23:20:33Z",
+    "soft_xray_flux": 18.0,
+    "hard_xray_flux": 0.0,
+    "soft_bg_subtracted": 15.0,
+    "hard_bg_subtracted": 0.0,
+    "source": "aditya"
+  },
+  {
+    "timestamp": "2026-06-20T23:21:58Z",
+    "soft_xray_flux": 17.0,
+    "hard_xray_flux": 0.0,
+    "soft_bg_subtracted": 14.0,
+    "hard_bg_subtracted": 0.0,
+    "source": "aditya"
+  },
+  {
+    "timestamp": "2026-06-20T23:23:23Z",
+    "soft_xray_flux": 13.0,
+    "hard_xray_flux": 0.0,
+    "soft_bg_subtracted": 10.0,
+    "hard_bg_subtracted": 0.0,
+    "source": "aditya"
+  },
+  {
+    "timestamp": "2026-06-20T23:24:48Z",
+    "soft_xray_flux": 12.0,
+    "hard_xray_flux": 0.0,
+    "soft_bg_subtracted": 9.0,
+    "hard_bg_subtracted": 0.0,
+    "source": "aditya"
+  },
+  {
+    "timestamp": "2026-06-20T23:26:13Z",
+    "soft_xray_flux": 9.0,
+    "hard_xray_flux": 1.0,
+    "soft_bg_subtracted": 6.0,
+    "hard_bg_subtracted": 1.0,
+    "source": "aditya"
+  },
+  {
+    "timestamp": "2026-06-20T23:27:38Z",
+    "soft_xray_flux": 21.0,
+    "hard_xray_flux": 0.0,
+    "soft_bg_subtracted": 18.0,
+    "hard_bg_subtracted": 0.0,
+    "source": "aditya"
+  },
+  {
+    "timestamp": "2026-06-20T23:29:03Z",
+    "soft_xray_flux": 7.0,
+    "hard_xray_flux": 0.0,
+    "soft_bg_subtracted": 4.0,
+    "hard_bg_subtracted": 0.0,
+    "source": "aditya"
+  },
+  {
+    "timestamp": "2026-06-20T23:30:28Z",
+    "soft_xray_flux": 10.0,
+    "hard_xray_flux": 0.0,
+    "soft_bg_subtracted": 7.0,
+    "hard_bg_subtracted": 0.0,
+    "source": "aditya"
+  },
+  {
+    "timestamp": "2026-06-20T23:31:53Z",
+    "soft_xray_flux": 12.0,
+    "hard_xray_flux": 0.0,
+    "soft_bg_subtracted": 9.0,
+    "hard_bg_subtracted": 0.0,
+    "source": "aditya"
+  },
+  {
+    "timestamp": "2026-06-20T23:33:18Z",
+    "soft_xray_flux": 18.0,
+    "hard_xray_flux": 0.0,
+    "soft_bg_subtracted": 15.0,
+    "hard_bg_subtracted": 0.0,
+    "source": "aditya"
+  },
+  {
+    "timestamp": "2026-06-20T23:34:43Z",
+    "soft_xray_flux": 11.0,
+    "hard_xray_flux": 0.0,
+    "soft_bg_subtracted": 8.0,
+    "hard_bg_subtracted": 0.0,
+    "source": "aditya"
+  },
+  {
+    "timestamp": "2026-06-20T23:36:08Z",
+    "soft_xray_flux": 10.0,
+    "hard_xray_flux": 1.0,
+    "soft_bg_subtracted": 7.0,
+    "hard_bg_subtracted": 1.0,
+    "source": "aditya"
+  },
+  {
+    "timestamp": "2026-06-20T23:37:33Z",
+    "soft_xray_flux": 7.0,
+    "hard_xray_flux": 0.0,
+    "soft_bg_subtracted": 4.0,
+    "hard_bg_subtracted": 0.0,
+    "source": "aditya"
+  },
+  {
+    "timestamp": "2026-06-20T23:38:58Z",
+    "soft_xray_flux": 9.0,
+    "hard_xray_flux": 0.0,
+    "soft_bg_subtracted": 6.0,
+    "hard_bg_subtracted": 0.0,
+    "source": "aditya"
+  },
+  {
+    "timestamp": "2026-06-20T23:40:23Z",
+    "soft_xray_flux": 4.0,
+    "hard_xray_flux": 0.0,
+    "soft_bg_subtracted": 1.0,
+    "hard_bg_subtracted": 0.0,
+    "source": "aditya"
+  },
+  {
+    "timestamp": "2026-06-20T23:41:48Z",
+    "soft_xray_flux": 16.0,
+    "hard_xray_flux": 2.0,
+    "soft_bg_subtracted": 13.0,
+    "hard_bg_subtracted": 2.0,
+    "source": "aditya"
+  },
+  {
+    "timestamp": "2026-06-20T23:43:13Z",
+    "soft_xray_flux": 8.0,
+    "hard_xray_flux": 0.0,
+    "soft_bg_subtracted": 5.0,
+    "hard_bg_subtracted": 0.0,
+    "source": "aditya"
+  },
+  {
+    "timestamp": "2026-06-20T23:44:38Z",
+    "soft_xray_flux": 7.0,
+    "hard_xray_flux": 1.0,
+    "soft_bg_subtracted": 4.0,
+    "hard_bg_subtracted": 1.0,
+    "source": "aditya"
+  },
+  {
+    "timestamp": "2026-06-20T23:46:03Z",
+    "soft_xray_flux": 10.0,
+    "hard_xray_flux": 0.0,
+    "soft_bg_subtracted": 7.0,
+    "hard_bg_subtracted": 0.0,
+    "source": "aditya"
+  },
+  {
+    "timestamp": "2026-06-20T23:47:28Z",
+    "soft_xray_flux": 3.0,
+    "hard_xray_flux": 0.0,
+    "soft_bg_subtracted": 0.0,
+    "hard_bg_subtracted": 0.0,
+    "source": "aditya"
+  },
+  {
+    "timestamp": "2026-06-20T23:48:53Z",
+    "soft_xray_flux": 7.0,
+    "hard_xray_flux": 0.0,
+    "soft_bg_subtracted": 4.0,
+    "hard_bg_subtracted": 0.0,
+    "source": "aditya"
+  },
+  {
+    "timestamp": "2026-06-20T23:50:18Z",
+    "soft_xray_flux": 5.0,
+    "hard_xray_flux": 0.0,
+    "soft_bg_subtracted": 2.0,
+    "hard_bg_subtracted": 0.0,
+    "source": "aditya"
+  },
+  {
+    "timestamp": "2026-06-20T23:51:43Z",
+    "soft_xray_flux": 7.0,
+    "hard_xray_flux": 0.0,
+    "soft_bg_subtracted": 4.0,
+    "hard_bg_subtracted": 0.0,
+    "source": "aditya"
+  },
+  {
+    "timestamp": "2026-06-20T23:53:08Z",
+    "soft_xray_flux": 8.0,
+    "hard_xray_flux": 0.0,
+    "soft_bg_subtracted": 5.0,
+    "hard_bg_subtracted": 0.0,
+    "source": "aditya"
+  },
+  {
+    "timestamp": "2026-06-20T23:54:33Z",
+    "soft_xray_flux": 3.0,
+    "hard_xray_flux": 0.0,
+    "soft_bg_subtracted": 0.0,
+    "hard_bg_subtracted": 0.0,
+    "source": "aditya"
+  },
+  {
+    "timestamp": "2026-06-20T23:55:58Z",
+    "soft_xray_flux": 7.0,
+    "hard_xray_flux": 0.0,
+    "soft_bg_subtracted": 4.0,
+    "hard_bg_subtracted": 0.0,
+    "source": "aditya"
+  },
+  {
+    "timestamp": "2026-06-20T23:57:23Z",
+    "soft_xray_flux": 7.0,
+    "hard_xray_flux": 0.0,
+    "soft_bg_subtracted": 4.0,
+    "hard_bg_subtracted": 0.0,
+    "source": "aditya"
+  },
+  {
+    "timestamp": "2026-06-20T23:58:48Z",
+    "soft_xray_flux": 11.0,
+    "hard_xray_flux": 0.0,
+    "soft_bg_subtracted": 8.0,
+    "hard_bg_subtracted": 0.0,
+    "source": "aditya"
+  }
+]

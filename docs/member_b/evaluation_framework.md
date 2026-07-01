@@ -1,0 +1,51 @@
+# Evaluation Framework
+
+## Why Evaluation Is Hard for Flare Forecasting
+
+Solar flares are rare events. Even during solar maximum, the X-ray light curve is dominated by quiet-Sun and low-level background activity, with M- and X-class flares occupying a tiny fraction of total observation time. This creates severe class imbalance: in a typical week of 1-minute-cadence data (~10,000 rows), only a few dozen rows may fall within a genuine pre-flare window. A naive classifier that predicts "no flare" for every timestamp trivially achieves >95% accuracy while providing zero operational value.
+
+Beyond imbalance, flare forecasting carries a fundamental cost asymmetry. A missed flare (false negative) can leave satellite operators and astronauts without warning of an incoming radiation event. A false alarm (false positive) wastes resources and erodes trust, but does not directly endanger assets. Plain accuracy conflates these two failure modes into a single number and is therefore misleading. Our evaluation must instead report metrics that separately quantify detection completeness and alarm reliability.
+
+## Metric Definitions
+
+### True Positive Rate / Probability of Detection (POD)
+
+$$\text{POD} = \frac{TP}{TP + FN}$$
+
+The fraction of actual flare windows that the model correctly forecasted. A POD of 1.0 means no flares were missed. This is the primary safety-critical metric.
+
+### False Alarm Ratio (FAR)
+
+$$\text{FAR} = \frac{FP}{FP + TP}$$
+
+The fraction of issued flare forecasts that turned out to be false alarms. **Convention note:** we use the *False Alarm Ratio* (also called the *false discovery rate* in statistics), which conditions on positive predictions, **not** the *False Positive Rate* (FP / (FP + TN)), which conditions on actual negatives. The ratio-based FAR is standard in operational solar-flare-forecasting literature (e.g., Crown, 2012; Bloomfield et al., 2012) and is more interpretable for end-users: "of every 10 alerts, how many were false?" D should ensure the proposal uses this convention consistently throughout.
+
+### Lead Time
+
+$$\text{Lead Time} = t_{\text{flare\_onset}} - t_{\text{alert\_issued}}$$
+
+The elapsed time between a correct forecast being issued and the actual flare onset (`start_time` from the master catalogue). Longer lead time at an acceptable FAR is the core value proposition of a forecasting system over a simple nowcasting/detection approach: detection confirms a flare that is already underway, whereas forecasting provides actionable advance warning. We report lead time only for true-positive events, as a distribution (median and interquartile range).
+
+### Optional: Heidke Skill Score (HSS)
+
+$$\text{HSS} = \frac{2(TP \cdot TN - FP \cdot FN)}{(TP + FN)(FN + TN) + (TP + FP)(FP + TN)}$$
+
+HSS measures forecast skill relative to random chance, ranging from -1 (systematically wrong) through 0 (no skill) to 1 (perfect). It is widely reported in operational solar-forecasting studies (Crown, 2012; Leka et al., 2019) and may be included in our results if time allows, primarily for comparability with published benchmarks.
+
+## Baseline Evaluation Plan
+
+### Per-Horizon Evaluation
+
+Each forecast horizon (`label_30min`, `label_60min`, `label_120min`) is evaluated as a separate binary classification task. We expect POD to increase and FAR to decrease for longer horizons (120 min captures more true positives), but lead time utility also changes: a 120-minute window provides more warning but at coarser temporal resolution of the alert.
+
+### Train/Test Split Strategy
+
+Because this is time-series data, we use a **strict chronological split**: the first 80% of the time range is used for training and the final 20% for testing. Random splitting is prohibited, as it would leak future temporal context into training (e.g., post-flare decay features appearing in training that temporally precede test-set pre-flare windows). If sufficient data is available, we may additionally use a rolling forward-validation scheme within the training portion for hyperparameter tuning, always respecting temporal ordering.
+
+### Threshold Reporting
+
+The GBT baseline outputs a continuous predicted probability for each label. Rather than reporting results at a single arbitrary threshold, we will present the TPR vs. FAR tradeoff **across the full range of decision thresholds** -- effectively a precision-recall-style curve. This is critical for two reasons: (1) different operational contexts demand different FAR tolerances, and (2) judges will rightly ask "what threshold are you using and why." By presenting the full curve, we let stakeholders choose their own operating point.
+
+## Honest Scoping of Current Results
+
+Until Member A's real Aditya-L1/GOES data is integrated and Member C's real flare catalogue (`outputs/catalogue/detected_flares.json`) is produced, all evaluation numbers in this proposal are necessarily derived from synthetic placeholder data generated by `build_features.py`. These numbers demonstrate that the pipeline is functional and the evaluation methodology is sound, but they do not constitute validated scientific results. Phase 2 (if shortlisted) is where real historical data will be processed end-to-end and genuine POD/FAR/lead-time figures will be reported.

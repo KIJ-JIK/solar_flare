@@ -1,0 +1,341 @@
+@import "tailwindcss";
+
+@layer base {
+  :root {
+    --background: 0 0% 0%;
+    --foreground: 0 0% 100%;
+    
+    --card: 0 0% 2%;
+    --card-foreground: 0 0% 100%;
+    
+    --popover: 0 0% 0%;
+    --popover-foreground: 0 0% 100%;
+    
+    --primary: 0 0% 100%;
+    --primary-foreground: 0 0% 0%;
+    
+    --secondary: 0 0% 10%;
+    --secondary-foreground: 0 0% 100%;
+    
+    --muted: 0 0% 15%;
+    --muted-foreground: 0 0% 65%;
+    
+    --accent: 0 0% 100%;
+    --accent-foreground: 0 0% 0%;
+    
+    --destructive: 0 0% 100%;
+    --destructive-foreground: 0 0% 0%;
+    
+    --border: 0 0% 100%;
+    --input: 0 0% 10%;
+    --ring: 0 0% 100%;
+    
+    --radius: 0px; /* Sharp brutalist edges */
+  }
+}
+
+body {
+  background-color: #000000;
+  color: #ffffff;
+  font-family: 'Space Mono', Courier, monospace;
+  overflow-x: hidden;
+  /* Stippled dither background effect */
+  background-image: radial-gradient(rgba(255, 255, 255, 0.15) 1px, transparent 1px);
+  background-size: 16px 16px;
+}
+
+.font-serif-astronomy {
+  font-family: 'Arial Black', 'Impact', sans-serif;
+  font-weight: 900;
+  letter-spacing: -0.02em;
+}
+
+.font-mono-telemetry {
+  font-family: 'Space Mono', Courier, monospace;
+}
+
+/* Technical Document & Card Design System (Lunar/Mercurio Zine Theme) */
+.technical-document {
+  position: relative;
+  background: #000000;
+  border: 2px solid #ffffff;
+  padding: 2.5rem;
+  border-radius: 0px;
+  color: #ffffff;
+  font-family: 'Space Mono', Courier, monospace;
+  box-shadow: 8px 8px 0px rgba(255, 255, 255, 0.15);
+}
+
+.tech-card {
+  position: relative;
+  background: #000000;
+  border: 1px solid #ffffff;
+  padding: 1.5rem;
+  border-radius: 0px;
+  color: #ffffff;
+}
+
+/* Background Gradients (Nebulae) - Removed in Monochrome Zine Theme */
+.technical-document::before, .tech-card::before,
+.technical-document::after, .tech-card::after {
+  display: none !important;
+}
+
+/* Crosshairs & Grid Lines */
+.tech-grid-wrapper {
+  position: absolute;
+  inset: 0;
+  pointer-events: none;
+  z-index: 2;
+  border: 1px solid rgba(255, 255, 255, 0.15);
+}
+
+.tech-cross {
+  position: absolute;
+  width: 9px;
+  height: 9px;
+  color: #ffffff;
+  font-family: monospace;
+  font-size: 16px;
+  font-weight: bold;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+/* Tech Tags/Labels at borders */
+.tech-corner-tag {
+  position: absolute;
+  font-family: 'Space Mono', Courier, monospace;
+  font-size: 10px;
+  color: #ffffff;
+  background: #000000;
+  padding: 2px 6px;
+  border: 1px solid #ffffff;
+  letter-spacing: 0.15em;
+  z-index: 3;
+}
+
+.tech-corner-tag--tl { top: -8px; left: 1rem; }
+.tech-corner-tag--tr { top: -8px; right: 1rem; }
+.tech-corner-tag--bl { bottom: -8px; left: 1rem; }
+.tech-corner-tag--br { bottom: -8px; right: 1rem; }
+
+/* Document Header styling */
+.tech-doc-header {
+  border-bottom: 2px solid #ffffff;
+  padding-bottom: 1.5rem;
+  margin-bottom: 2rem;
+  position: relative;
+  z-index: 10;
+}
+
+.tech-doc-subtitle {
+  font-family: 'Space Mono', Courier, monospace;
+  font-size: 11px;
+  color: #ffffff;
+  text-transform: uppercase;
+  letter-spacing: 0.25em;
+}
+
+/* Custom Accordion/Expander Container */
+.tech-accordion {
+  border-bottom: 1px solid #ffffff;
+  position: relative;
+  z-index: 10;
+}
+
+.tech-accordion-header {
+  width: 100%;
+  text-align: left;
+  padding: 1.25rem 0.5rem;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  background: #000000;
+  border: none;
+  outline: none;
+  cursor: pointer;
+  transition: all 0.15s ease;
+  color: #ffffff;
+  font-family: 'Space Mono', Courier, monospace;
+}
+
+.tech-accordion-header:hover {
+  background: #ffffff;
+  color: #000000;
+}
+
+.tech-accordion-header:hover .tech-accordion-index,
+.tech-accordion-header:hover .tech-accordion-title,
+.tech-accordion-header:hover .tech-accordion-arrow {
+  color: #000000 !important;
+}
+
+.tech-accordion-index {
+  font-family: 'Space Mono', Courier, monospace;
+  font-size: 12px;
+  color: #ffffff;
+  margin-right: 1rem;
+}
+
+.tech-accordion-title {
+  font-size: 16px;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+  color: #ffffff;
+  flex: 1;
+}
+
+.tech-accordion-arrow {
+  font-family: 'Space Mono', Courier, monospace;
+  font-size: 11px;
+  color: #ffffff;
+}
+
+.tech-accordion-content {
+  padding: 1.5rem 0.5rem;
+  font-size: 13px;
+  line-height: 1.6;
+  color: #ffffff;
+  max-height: 600px;
+  overflow-y: auto;
+  border-left: 1px dashed rgba(255, 255, 255, 0.3);
+  margin-left: 8px;
+  padding-left: 20px;
+}
+
+/* Technical Data Tables matching LUNAR style */
+.tech-table {
+  width: 100%;
+  border-collapse: collapse;
+  margin-top: 1.25rem;
+  margin-bottom: 1.25rem;
+  border: 1px solid #ffffff;
+}
+
+.tech-table-row {
+  border-bottom: 1px solid #ffffff;
+}
+
+.tech-table-row:last-child {
+  border-bottom: none;
+}
+
+.tech-table-cell-key {
+  padding: 0.75rem;
+  color: #ffffff;
+  font-size: 11px;
+  text-transform: uppercase;
+  width: 40%;
+  font-family: 'Space Mono', Courier, monospace;
+  background: rgba(255, 255, 255, 0.05);
+  border-right: 1px solid #ffffff;
+}
+
+.tech-table-cell-val {
+  padding: 0.75rem;
+  color: #ffffff;
+  font-size: 12px;
+  width: 60%;
+  font-family: 'Space Mono', Courier, monospace;
+  font-weight: bold;
+  text-align: left;
+}
+
+/* Highlight boxes for formulas or summaries */
+.tech-formula-box {
+  background: #000000;
+  border: 1px solid #ffffff;
+  padding: 1.25rem;
+  margin: 1.25rem 0;
+  position: relative;
+}
+
+.tech-formula-box::before {
+  content: '';
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 12px;
+  height: 4px;
+  background: #ffffff;
+}
+
+.tech-formula-box::after {
+  content: '';
+  position: absolute;
+  bottom: 0;
+  right: 0;
+  width: 12px;
+  height: 4px;
+  background: #ffffff;
+}
+
+.tech-formula-text {
+  font-family: 'Space Mono', Courier, monospace;
+  color: #ffffff;
+  text-align: center;
+  font-size: 13px;
+  font-weight: bold;
+}
+
+/* Halftone dither elements simulating zine texture */
+.zine-halftone-border {
+  position: relative;
+}
+.zine-halftone-border::after {
+  content: '';
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  height: 4px;
+  background-image: linear-gradient(90deg, #ffffff 50%, transparent 50%);
+  background-size: 8px 4px;
+}
+
+@keyframes scan {
+  0% { top: 0%; }
+  50% { top: 100%; }
+  100% { top: 0%; }
+}
+.animate-scan {
+  animation: scan 4s linear infinite;
+}
+
+/* Recharts interactive custom pulsing dots for telemetry curves */
+@keyframes pulseSoft {
+  0% { r: 5px; stroke-width: 1px; opacity: 1; fill: #ea580c; }
+  50% { r: 10px; stroke-width: 3.5px; opacity: 0.75; fill: #f97316; }
+  100% { r: 5px; stroke-width: 1px; opacity: 1; fill: #ea580c; }
+}
+
+@keyframes pulseHard {
+  0% { r: 5px; stroke-width: 1px; opacity: 1; fill: #facc15; }
+  50% { r: 10px; stroke-width: 3.5px; opacity: 0.75; fill: #fef08a; }
+  100% { r: 5px; stroke-width: 1px; opacity: 1; fill: #facc15; }
+}
+
+@keyframes pulseBg {
+  0% { r: 5px; stroke-width: 1px; opacity: 1; fill: #a855f7; }
+  50% { r: 10px; stroke-width: 3.5px; opacity: 0.75; fill: #c084fc; }
+  100% { r: 5px; stroke-width: 1px; opacity: 1; fill: #a855f7; }
+}
+
+.recharts-active-dot-pulsing-soft {
+  animation: pulseSoft 1.2s infinite ease-in-out;
+  filter: drop-shadow(0 0 6px rgba(234, 88, 12, 0.8));
+}
+
+.recharts-active-dot-pulsing-hard {
+  animation: pulseHard 1.2s infinite ease-in-out;
+  filter: drop-shadow(0 0 6px rgba(250, 204, 21, 0.8));
+}
+
+.recharts-active-dot-pulsing-bg {
+  animation: pulseBg 1.2s infinite ease-in-out;
+  filter: drop-shadow(0 0 6px rgba(168, 85, 247, 0.8));
+}
+

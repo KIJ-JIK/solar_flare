@@ -1,0 +1,28 @@
+{
+  "source": "raw_sample.csv",
+  "generated": "2026-06-26T04:22:56.997777",
+  "flares": [
+    {
+      "flare_id": "SOL2013-01-11T06:55",
+      "start_time": "2013-01-11T06:47:00",
+      "peak_time": "2013-01-11T06:55:00",
+      "end_time": "2013-01-11T07:17:00",
+      "duration_min": 31,
+      "peak_b_flux": 0.000170311665,
+      "noaa_class": "X1.7",
+      "peak_background": 3.18364e-07,
+      "snr": 534.96
+    },
+    {
+      "flare_id": "SOL2013-01-11T18:05",
+      "start_time": "2013-01-11T18:02:00",
+      "peak_time": "2013-01-11T18:05:00",
+      "end_time": "2013-01-11T18:24:00",
+      "duration_min": 23,
+      "peak_b_flux": 1.0277694e-05,
+      "noaa_class": "M1.0",
+      "peak_background": 2.6032e-07,
+      "snr": 39.48
+    }
+  ]
+}
