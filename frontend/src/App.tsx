@@ -263,7 +263,7 @@ export default function App() {
 
         <footer className="text-center text-slate-400 text-xs py-4 border-t border-white/20 relative z-10 bg-black/40">
           <h3 className="text-slate-300 font-bold mb-1">Solar Flare Forecasting using Aditya-L1 SoLEXS & HEL1OS</h3>
-          <p className="mb-1">Developed for Bharatiya Antariksh Hackathon 2026</p>
+          
           <p className="mb-1 text-slate-300 font-bold">Created by @ansh, @arya, @malthesh, @bopaiah</p>
           <p className="text-[10px] text-slate-500 mt-2">
             © 2026 All Rights Reserved |{" "}
@@ -693,7 +693,7 @@ export default function App() {
       {/* Unified Hackathon Footer */}
       <footer className="border-t-2 border-white bg-black py-6 text-center text-slate-400 text-xs relative z-10">
         <h3 className="text-slate-300 font-bold mb-1">Solar Flare Forecasting using Aditya-L1 SoLEXS & HEL1OS</h3>
-        <p className="mb-1">Developed for Bharatiya Antariksh Hackathon 2026</p>
+        
         <p className="mb-1 text-slate-300 font-bold">Created by @ansh, @arya, @malthesh, @bopaiah</p>
         <p className="text-[10px] text-slate-500 mt-2">
           © 2026 All Rights Reserved |{" "}
