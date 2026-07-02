@@ -1,0 +1,440 @@
+--- Page 1 ---
+BAH 2026 — Member-by-Member
+Coordination Plan
+PS15: Solar Flare Forecasting (Aditya-L1 SoLEXS
++ HEL1OS)
+This document complements the Master Plan. Each member can work
+primarily from their own section — the Integration Contract below is
+what keeps everyone's work compatible without a last-minute
+scramble.
+0. The Integration Contract (Read as a
+Team on Day 1, Before Splitting Up)
+This is the single most important part of this document. Most team
+"coordination issues" come from skipping this step.
+Repo / Folder Structure (agree on this exact
+layout, Day 1)
+/data/raw/              ← A's raw downloads (untouched, 
+original files)
+/data/processed/        ← A's cleaned/merged output 
+(everyone else reads from here)
+/src/features/          ← B's feature engineering code
+/src/nowcast/           ← C's detection code
+/src/forecast/          ← C's prediction model code
+/outputs/plots/         ← C's validation visuals
+/outputs/catalogue/     ← C's flare detection catalogue 
+
+--- Page 2 ---
+(csv)
+/docs/                  ← D's proposal drafts, diagrams
+Data Handoff Contract (lock these column
+names on Day 1 — do not improvise later)
+A delivers → data/processed/combined_lightcurve.csv :
+| Column | Type | Notes |
+|---|---|---|
+| timestamp  | ISO8601 UTC | common cadence, resampled if needed |
+| soft_xray_flux  | float | SoLEXS / GOES soft channel |
+| hard_xray_flux  | float | HEL1OS hard channel |
+| soft_bg_subtracted  | float | after background removal |
+| hard_bg_subtracted  | float | after background removal |
+| source  | string | aditya  or goes  |
+B delivers → data/processed/features.csv  (built on top of A's file,
+same timestamp  key):
+| Column | Type | Notes |
+|---|---|---|
+| timestamp  | ISO8601 UTC | join key |
+| hard_rate_of_rise  | float | |
+| hardness_ratio  | float | hard/soft flux |
+| soft_bg_trend  | float | |
+| recent_flare_count  | int | active-region productivity proxy |
+| label_30min  / label_60min  / label_120min  | bool | ground-truth
+flare-within-window labels |
+C delivers → outputs/catalogue/master_catalogue.csv :
+| Column | Type | Notes |
+|---|---|---|
+| start_time , peak_time , end_time  | ISO8601 UTC | |
+| flare_class  | string | e.g. M5.2  |
+| confidence  | string | hard-confirmed  / soft-only  |
+Rule: if anyone needs to change a column name or format, they say so
+in the daily stand-up before changing it — not silently.
+
+--- Page 3 ---
+Daily Stand-up (15 min, same time every
+evening)
+Each person answers three things only:
+1. What I finished today
+2. What's blocking me
+3. What I need from someone else, and by when
+Named Sync Points (deeper than daily stand-up)
+Day 1 (kickoff): lock the contract above
+Day 3: confirm feature schema (B) matches what A's data actually
+supports
+Day 5: confirm C's validation plots use the real catalogue format D
+will reference in the proposal
+Day 7: full team review (see Master Plan Part 2)
+Day 9: final integration check before writing freeze
+1. Member A — Domain & Data Lead
+Phase 1 (Day 1–10)
+Day
+Task
+Deliverable
+Hand
+off to
+1
+Register on PRADAN;
+read SoLEXS/HEL1OS
+handbooks; locate
+NOAA GOES archive
+Access confirmed or blockers
+flagged
+Team
+(stand-
+up)
+2
+With B: whiteboard the
+conceptual pipeline
+Shared understanding
+B
+
+--- Page 4 ---
+Day
+Task
+Deliverable
+Hand
+off to
+3
+Confirm exact
+PRADAN file
+formats/cadence/date
+ranges available
+Note on data realities
+C (so C's
+script
+matches
+reality)
+4
+Pull real Aditya-L1
+sample if accessible;
+clean & merge into
+contract format
+combined_lightcurve.csv
+(v1)
+B, C
+5
+Finalize dataset
+section content:
+sources, access
+status, coverage limits
+Written section
+D
+6
+Cross-check full
+pipeline against Day-1
+objectives checklist
+Gap list
+Team
+7
+Internal review —
+defend data choices if
+questioned
+—
+Team
+8
+Contribute dataset
+section to full draft
+Final text
+D
+9
+Proofread pass
+—
+D
+10
+Final read-through,
+submit
+—
+Team
+Phase 2 (if shortlisted, 1 Jul–6 Aug)
+Get full real Aditya-L1 integration solid (not just GOES proxy) —
+resolve format quirks now
+Build a clean historical dataset for B/C to train the real baseline on
+
+--- Page 5 ---
+Phase 3 (Grand Finale, Aug 6–7)
+Hours 1–4: finalize real data pipeline ingestion live
+Throughout: on-call for any "is this data behavior physically
+plausible?" questions from B/C
+Hours 20–24: cross-check evaluation results for domain sanity
+2. Member B — Algorithm/ML Design
+Lead
+Phase 1 (Day 1–10)
+Day
+Task
+Deliverable
+Hand off to
+1
+Research GOES
+classification + Neupert
+effect; skim 2–3 ML
+flare-forecasting papers
+Notes
+Team
+2
+With A: finalize
+conceptual pipeline
+Shared
+architecture
+C
+3
+Lock model choices
+(baseline GBT + stretch
+LSTM); define feature
+list precisely
+Feature spec
+matching contract
+B confirms
+with A that
+data
+supports it
+4
+Engineer precursor
+features on A's sample
+data
+features.csv
+(v1)
+C
+5
+Write evaluation
+framework section
+(TPR/FAR/lead-time
+Written section
+D
+
+--- Page 6 ---
+Day
+Task
+Deliverable
+Hand off to
+definitions, baseline
+plan)
+6
+Cross-check pipeline vs
+objectives checklist
+Gap list
+Team
+7
+Internal review —
+defend modeling
+choices
+—
+Team
+8
+Contribute
+methodology section
+Final text
+D
+9
+Proofread pass
+—
+D
+10
+Final read-through,
+submit
+—
+Team
+Phase 2 (if shortlisted)
+Train the GBT baseline on real historical data; get honest
+TPR/FAR/lead-time numbers
+Start the LSTM/Transformer stretch model as a side-track once
+baseline is solid
+Phase 3 (Grand Finale)
+Hours 10–16: lead the forecasting module build (likely overnight —
+coordinate sleep rotation with team)
+Hours 20–24: lead metrics computation, baseline comparison
+3. Member C — Prototype & Validation
+Lead
+
+--- Page 7 ---
+Phase 1 (Day 1–10)
+Day
+Task
+Deliverable
+Hand
+off to
+1
+Locate NOAA GOES
+X-ray archive access
+method
+Confirmed access path
+Team
+2
+Download sample
+GOES window
+covering a known
+historical flare
+Raw sample file
+Self
+(Day 3)
+3
+Start minimal
+detection script
+(background
+subtraction +
+threshold) per
+contract format
+Script v0.1
+Self
+4
+Get detection script
+correctly flagging the
+known historical flare
+Working detector
+B (for
+review)
+5
+Produce validation
+plots (light curve +
+detected markers)
+outputs/plots/*.png
+D
+6
+With D: mock up
+interface/alert
+wireframe
+Wireframe sketch
+D
+7
+Internal review —
+demo the working
+detector live to the
+team
+—
+Team
+
+--- Page 8 ---
+Day
+Task
+Deliverable
+Hand
+off to
+8
+Contribute validation
+visuals to draft
+Final plots
+D
+9
+Support proofreading
+/ fix any plot clarity
+issues flagged
+—
+D
+10
+Final read-through,
+submit
+—
+Team
+Phase 2 (if shortlisted)
+Get the real (not mockup) dashboard/interface built
+Integrate B's trained baseline model into a working end-to-end
+script
+Phase 3 (Grand Finale)
+Hours 4–10: lead the nowcasting module build
+Hours 16–20: lead integration + dashboard build
+Hours 24–28: support live demo run-throughs (you know the code
+best if something breaks)
+4. Member D — Documentation &
+Strategy Lead
+Phase 1 (Day 1–10)
+
+--- Page 9 ---
+Day
+Task
+Deliverable
+Hand
+off to
+1
+Set up shared workspace;
+extract objectives checklist
+from official statement
+Shared
+doc/repo live
+Team
+2
+Draft "Problem Understanding &
+Why It Matters" section
+Draft text
+Self
+3
+Sketch architecture diagram
+(rough version)
+Diagram v0.1
+B, A for
+review
+4
+Draft "Proposed Methodology"
+section using A/B's locked
+architecture
+Draft text
+Self
+5
+Draft "Expected Outcomes &
+Evaluation" section
+Draft text
+Self
+6
+With C: mock up interface/alert
+wireframe; finalize diagram
+Diagram v1
+Self
+7
+Internal review — facilitate the
+team stress-test
+Gap list
+resolved
+Team
+8
+Lead full draft assembly — pull
+in A/B/C sections, write
+impact/relevance section
+Full draft v1
+Team
+9
+Check for official template
+(likely released near deadline);
+restructure if needed; final
+proofread
+Submission-
+ready draft
+Team
+10
+Final read-through, submit on
+Hack2skill platform with buffer
+time, back up everything
+Submitted
+—
+
+--- Page 10 ---
+Phase 2 (if shortlisted)
+Attend Induction Session (21 July), take detailed notes on judging
+emphasis/scope clarifications
+Start drafting the Grand Finale pitch narrative early, don't leave it to
+the last day
+Phase 3 (Grand Finale)
+Hours 24–28: lead demo prep, slides, rehearsal — drill the team on
+likely judge questions
+Hours 28–30: final polish, submission logistics
+5. Final Pre-Submission Integration
+Checklist (Day 9–10)
+[ ] Every column name in every file matches the Day-1 contract —
+no silent renames
+[ ] D's proposal references the actual file/plot names C produced,
+not placeholder text
+[ ] A's dataset section access-status claims match what's actually
+in data/processed/
+[ ] B's methodology section matches the actual feature list in
+features.csv
+[ ] Every objective from the official problem statement has a
+traceable answer somewhere in the document
+[ ] Architecture diagram matches the real pipeline, not an earlier
+draft version
+[ ] All four members have read the full final draft, not just their own
+section
+

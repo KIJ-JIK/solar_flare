@@ -28,3 +28,6 @@ data/raw/aditya/
 # OS files
 .DS_Store
 Thumbs.db
+
+*.pdf
+

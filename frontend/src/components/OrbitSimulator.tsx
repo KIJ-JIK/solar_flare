@@ -324,7 +324,7 @@ export function OrbitSimulator() {
             p.life++;
             ctx.fillStyle = p.color;
             ctx.beginPath();
-            ctx.arc(p.x, p.y, p.size * (1 - p.life / p.maxLife), 0, Math.PI * 2);
+            ctx.arc(p.x, p.y, Math.max(0.0001, p.size * (1 - p.life / p.maxLife)), 0, Math.PI * 2);
             ctx.fill();
           });
           
