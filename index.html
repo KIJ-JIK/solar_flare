@@ -1,0 +1,53 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <link rel="icon" type="image/svg+xml" href="./favicon.svg" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Solar Flare Forecasting using Aditya-L1 SoLEXS & HEL1OS</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400..900;1,400..900&family=Space+Mono:ital,wght@0,400;0,700;1,400;1,700&family=Plus+Jakarta+Sans:ital,wght@0,200..800;1,200..800&display=swap" rel="stylesheet">
+    <script>
+      // Global error handler to catch and display any runtime crashes directly on screen
+      window.addEventListener('error', function(event) {
+        var errorDiv = document.getElementById('error-overlay');
+        if (!errorDiv) {
+          errorDiv = document.createElement('div');
+          errorDiv.id = 'error-overlay';
+          errorDiv.style.position = 'fixed';
+          errorDiv.style.top = '10px';
+          errorDiv.style.left = '10px';
+          errorDiv.style.right = '10px';
+          errorDiv.style.backgroundColor = '#742a2a';
+          errorDiv.style.color = '#fff5f5';
+          errorDiv.style.padding = '15px';
+          errorDiv.style.border = '2px solid #feb2b2';
+          errorDiv.style.borderRadius = '8px';
+          errorDiv.style.fontFamily = 'monospace';
+          errorDiv.style.fontSize = '14px';
+          errorDiv.style.zIndex = '999999';
+          errorDiv.style.whiteSpace = 'pre-wrap';
+          errorDiv.style.boxShadow = '0 10px 15px -3px rgba(0, 0, 0, 0.5)';
+          document.body.appendChild(errorDiv);
+        }
+        errorDiv.innerText = '🔴 Runtime JS Error Caught:\n\n' + event.message + '\n\nSource: ' + event.filename + ':' + event.lineno + ':' + event.colno + '\n\nStack:\n' + (event.error ? event.error.stack : 'No stack trace');
+      });
+      window.addEventListener('unhandledrejection', function(event) {
+        var errorDiv = document.getElementById('error-overlay');
+        if (!errorDiv) {
+          errorDiv = document.createElement('div');
+          errorDiv.id = 'error-overlay';
+          errorDiv.style.style = 'position: fixed; top: 10px; left: 10px; right: 10px; background-color: #742a2a; color: #fff5f5; padding: 15px; border: 2px solid #feb2b2; border-radius: 8px; font-family: monospace; font-size: 14px; z-index: 999999; white-space: pre-wrap;';
+          document.body.appendChild(errorDiv);
+        }
+        errorDiv.innerText = '🔴 Unhandled Promise Rejection:\n\n' + event.reason;
+      });
+    </script>
+    <script type="module" crossorigin src="./assets/index-CVMk1TrW.js"></script>
+    <link rel="stylesheet" crossorigin href="./assets/index-BShcO3np.css">
+  </head>
+  <body class="bg-[#05070a] text-slate-100">
+    <div id="root"></div>
+  </body>
+</html>

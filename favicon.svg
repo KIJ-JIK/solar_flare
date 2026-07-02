@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" fill="none">
+  <!-- Dark Space Background -->
+  <circle cx="256" cy="256" r="240" fill="#020408" stroke="#ffffff" stroke-width="8"/>
+  
+  <!-- Outer Solar Rays (representing Aditya-L1 Corona) -->
+  <path d="M256 16v32M256 464v32M16 256h32M464 256h32" stroke="#f97316" stroke-width="16" stroke-linecap="round"/>
+  <path d="M86.3 86.3l22.6 22.6M403.1 403.1l22.6 22.6M86.3 403.1l22.6-22.6M403.1 86.3l22.6 22.6" stroke="#f97316" stroke-width="16" stroke-linecap="round"/>
+
+  <!-- Glowing Crescent Moon (representing LUNAR Observatory) -->
+  <path d="M360 160c-90 0-160 70-160 160 0 30 8 58 22 83-48-35-72-90-72-147 0-110 90-200 200-200 20 0 39 3 58 9-27 22-48 57-48 95z" fill="#ffffff"/>
+  
+  <!-- Styled Futuristic 'L' monogram -->
+  <path d="M220 220h25v90h40v25h-65v-115z" fill="#ffffff" stroke="#f97316" stroke-width="4"/>
+</svg>
