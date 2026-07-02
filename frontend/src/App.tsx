@@ -37,9 +37,7 @@ interface ForecastMetrics {
 }
 
 export default function App() {
-  const [welcomeDismissed, setWelcomeDismissed] = useState<boolean>(() => {
-    return localStorage.getItem("welcome_dismissed") === "true";
-  });
+  const [welcomeDismissed, setWelcomeDismissed] = useState<boolean>(false);
   
   const [activeTab, setActiveTab] = useState<"nowcast" | "forecast" | "simulator" | "proposal" | "features">("nowcast");
   const [telemetry, setTelemetry] = useState<TelemetryPoint[]>([]);
